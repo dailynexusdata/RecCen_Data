@@ -1,1387 +1,1387 @@
 Date     ,Time     ,Visits ,Day
-9/29/19  ,5:00 AM  ,     0 ,Sunday
-9/29/19  ,6:00 AM  ,     0 ,Sunday
-9/29/19  ,7:00 AM  ,     0 ,Sunday
-9/29/19  ,8:00 AM  ,     4 ,Sunday
-9/29/19  ,9:00 AM  ,   225 ,Sunday
-9/29/19  ,10:00 AM ,   149 ,Sunday
-9/29/19  ,11:00 AM ,   135 ,Sunday
-9/29/19  ,12:00 PM ,   131 ,Sunday
-9/29/19  ,1:00 PM  ,   209 ,Sunday
-9/29/19  ,2:00 PM  ,   194 ,Sunday
-9/29/19  ,3:00 PM  ,   194 ,Sunday
-9/29/19  ,4:00 PM  ,   301 ,Sunday
-9/29/19  ,5:00 PM  ,   207 ,Sunday
-9/29/19  ,6:00 PM  ,   186 ,Sunday
-9/29/19  ,7:00 PM  ,   204 ,Sunday
-9/29/19  ,8:00 PM  ,   156 ,Sunday
-9/29/19  ,9:00 PM  ,    38 ,Sunday
-9/29/19  ,10:00 PM ,     0 ,Sunday
-9/30/19  ,5:00 AM  ,     7 ,Monday
-9/30/19  ,6:00 AM  ,   222 ,Monday
-9/30/19  ,7:00 AM  ,   177 ,Monday
-9/30/19  ,8:00 AM  ,   214 ,Monday
-9/30/19  ,9:00 AM  ,   364 ,Monday
-9/30/19  ,10:00 AM ,   323 ,Monday
-9/30/19  ,11:00 AM ,   275 ,Monday
-9/30/19  ,12:00 PM ,   311 ,Monday
-9/30/19  ,1:00 PM  ,   220 ,Monday
-9/30/19  ,2:00 PM  ,   295 ,Monday
-9/30/19  ,3:00 PM  ,   304 ,Monday
-9/30/19  ,4:00 PM  ,   331 ,Monday
-9/30/19  ,5:00 PM  ,   438 ,Monday
-9/30/19  ,6:00 PM  ,   409 ,Monday
-9/30/19  ,7:00 PM  ,   339 ,Monday
-9/30/19  ,8:00 PM  ,   286 ,Monday
-9/30/19  ,9:00 PM  ,   175 ,Monday
-9/30/19  ,10:00 PM ,    38 ,Monday
-10/1/19  ,5:00 AM  ,     1 ,Tuesday
-10/1/19  ,6:00 AM  ,   154 ,Tuesday
-10/1/19  ,7:00 AM  ,   216 ,Tuesday
-10/1/19  ,8:00 AM  ,   182 ,Tuesday
-10/1/19  ,9:00 AM  ,   313 ,Tuesday
-10/1/19  ,10:00 AM ,   318 ,Tuesday
-10/1/19  ,11:00 AM ,   226 ,Tuesday
-10/1/19  ,12:00 PM ,   287 ,Tuesday
-10/1/19  ,1:00 PM  ,   296 ,Tuesday
-10/1/19  ,2:00 PM  ,   233 ,Tuesday
-10/1/19  ,3:00 PM  ,   300 ,Tuesday
-10/1/19  ,4:00 PM  ,   319 ,Tuesday
-10/1/19  ,5:00 PM  ,   324 ,Tuesday
-10/1/19  ,6:00 PM  ,   344 ,Tuesday
-10/1/19  ,7:00 PM  ,   310 ,Tuesday
-10/1/19  ,8:00 PM  ,   279 ,Tuesday
-10/1/19  ,9:00 PM  ,   177 ,Tuesday
-10/1/19  ,10:00 PM ,    21 ,Tuesday
-10/2/19  ,5:00 AM  ,     0 ,Wednesday
-10/2/19  ,6:00 AM  ,   194 ,Wednesday
-10/2/19  ,7:00 AM  ,   200 ,Wednesday
-10/2/19  ,8:00 AM  ,   204 ,Wednesday
-10/2/19  ,9:00 AM  ,   298 ,Wednesday
-10/2/19  ,10:00 AM ,   348 ,Wednesday
-10/2/19  ,11:00 AM ,   258 ,Wednesday
-10/2/19  ,12:00 PM ,   204 ,Wednesday
-10/2/19  ,1:00 PM  ,   176 ,Wednesday
-10/2/19  ,2:00 PM  ,   234 ,Wednesday
-10/2/19  ,3:00 PM  ,   266 ,Wednesday
-10/2/19  ,4:00 PM  ,   280 ,Wednesday
-10/2/19  ,5:00 PM  ,   399 ,Wednesday
-10/2/19  ,6:00 PM  ,   399 ,Wednesday
-10/2/19  ,7:00 PM  ,   282 ,Wednesday
-10/2/19  ,8:00 PM  ,   305 ,Wednesday
-10/2/19  ,9:00 PM  ,   199 ,Wednesday
-10/2/19  ,10:00 PM ,    32 ,Wednesday
-10/3/19  ,5:00 AM  ,     0 ,Thursday
-10/3/19  ,6:00 AM  ,   120 ,Thursday
-10/3/19  ,7:00 AM  ,   144 ,Thursday
-10/3/19  ,8:00 AM  ,   149 ,Thursday
-10/3/19  ,9:00 AM  ,   323 ,Thursday
-10/3/19  ,10:00 AM ,   307 ,Thursday
-10/3/19  ,11:00 AM ,   221 ,Thursday
-10/3/19  ,12:00 PM ,   284 ,Thursday
-10/3/19  ,1:00 PM  ,   283 ,Thursday
-10/3/19  ,2:00 PM  ,   210 ,Thursday
-10/3/19  ,3:00 PM  ,   301 ,Thursday
-10/3/19  ,4:00 PM  ,   262 ,Thursday
-10/3/19  ,5:00 PM  ,   275 ,Thursday
-10/3/19  ,6:00 PM  ,   272 ,Thursday
-10/3/19  ,7:00 PM  ,   254 ,Thursday
-10/3/19  ,8:00 PM  ,   247 ,Thursday
-10/3/19  ,9:00 PM  ,   165 ,Thursday
-10/3/19  ,10:00 PM ,    31 ,Thursday
-10/4/19  ,5:00 AM  ,     7 ,Friday
-10/4/19  ,6:00 AM  ,   143 ,Friday
-10/4/19  ,7:00 AM  ,    95 ,Friday
-10/4/19  ,8:00 AM  ,   133 ,Friday
-10/4/19  ,9:00 AM  ,   168 ,Friday
-10/4/19  ,10:00 AM ,   177 ,Friday
-10/4/19  ,11:00 AM ,   207 ,Friday
-10/4/19  ,12:00 PM ,   217 ,Friday
-10/4/19  ,1:00 PM  ,   204 ,Friday
-10/4/19  ,2:00 PM  ,   266 ,Friday
-10/4/19  ,3:00 PM  ,   327 ,Friday
-10/4/19  ,4:00 PM  ,   329 ,Friday
-10/4/19  ,5:00 PM  ,   283 ,Friday
-10/4/19  ,6:00 PM  ,   186 ,Friday
-10/4/19  ,7:00 PM  ,   149 ,Friday
-10/4/19  ,8:00 PM  ,    61 ,Friday
-10/4/19  ,9:00 PM  ,     0 ,Friday
-10/4/19  ,10:00 PM ,     0 ,Friday
-10/5/19  ,5:00 AM  ,     0 ,Saturday
-10/5/19  ,6:00 AM  ,     0 ,Saturday
-10/5/19  ,7:00 AM  ,     0 ,Saturday
-10/5/19  ,8:00 AM  ,    30 ,Saturday
-10/5/19  ,9:00 AM  ,   183 ,Saturday
-10/5/19  ,10:00 AM ,   153 ,Saturday
-10/5/19  ,11:00 AM ,   157 ,Saturday
-10/5/19  ,12:00 PM ,   174 ,Saturday
-10/5/19  ,1:00 PM  ,   205 ,Saturday
-10/5/19  ,2:00 PM  ,   160 ,Saturday
-10/5/19  ,3:00 PM  ,   215 ,Saturday
-10/5/19  ,4:00 PM  ,   175 ,Saturday
-10/5/19  ,5:00 PM  ,   187 ,Saturday
-10/5/19  ,6:00 PM  ,   133 ,Saturday
-10/5/19  ,7:00 PM  ,   132 ,Saturday
-10/5/19  ,8:00 PM  ,    38 ,Saturday
-10/5/19  ,9:00 PM  ,     0 ,Saturday
-10/5/19  ,10:00 PM ,     0 ,Saturday
-10/6/19  ,5:00 AM  ,     0 ,Sunday
-10/6/19  ,6:00 AM  ,     0 ,Sunday
-10/6/19  ,7:00 AM  ,     0 ,Sunday
-10/6/19  ,8:00 AM  ,     0 ,Sunday
-10/6/19  ,9:00 AM  ,   180 ,Sunday
-10/6/19  ,10:00 AM ,   131 ,Sunday
-10/6/19  ,11:00 AM ,   138 ,Sunday
-10/6/19  ,12:00 PM ,   132 ,Sunday
-10/6/19  ,1:00 PM  ,   112 ,Sunday
-10/6/19  ,2:00 PM  ,   130 ,Sunday
-10/6/19  ,3:00 PM  ,   157 ,Sunday
-10/6/19  ,4:00 PM  ,   191 ,Sunday
-10/6/19  ,5:00 PM  ,   181 ,Sunday
-10/6/19  ,6:00 PM  ,   187 ,Sunday
-10/6/19  ,7:00 PM  ,   167 ,Sunday
-10/6/19  ,8:00 PM  ,   146 ,Sunday
-10/6/19  ,9:00 PM  ,    26 ,Sunday
-10/6/19  ,10:00 PM ,     0 ,Sunday
-10/7/19  ,5:00 AM  ,     0 ,Monday
-10/7/19  ,6:00 AM  ,   200 ,Monday
-10/7/19  ,7:00 AM  ,   158 ,Monday
-10/7/19  ,8:00 AM  ,   185 ,Monday
-10/7/19  ,9:00 AM  ,   270 ,Monday
-10/7/19  ,10:00 AM ,   293 ,Monday
-10/7/19  ,11:00 AM ,   193 ,Monday
-10/7/19  ,12:00 PM ,   278 ,Monday
-10/7/19  ,1:00 PM  ,   179 ,Monday
-10/7/19  ,2:00 PM  ,   216 ,Monday
-10/7/19  ,3:00 PM  ,   257 ,Monday
-10/7/19  ,4:00 PM  ,   286 ,Monday
-10/7/19  ,5:00 PM  ,   352 ,Monday
-10/7/19  ,6:00 PM  ,   352 ,Monday
-10/7/19  ,7:00 PM  ,   297 ,Monday
-10/7/19  ,8:00 PM  ,   321 ,Monday
-10/7/19  ,9:00 PM  ,   205 ,Monday
-10/7/19  ,10:00 PM ,    47 ,Monday
-10/8/19  ,5:00 AM  ,     1 ,Tuesday
-10/8/19  ,6:00 AM  ,   164 ,Tuesday
-10/8/19  ,7:00 AM  ,   163 ,Tuesday
-10/8/19  ,8:00 AM  ,   179 ,Tuesday
-10/8/19  ,9:00 AM  ,   281 ,Tuesday
-10/8/19  ,10:00 AM ,   326 ,Tuesday
-10/8/19  ,11:00 AM ,   180 ,Tuesday
-10/8/19  ,12:00 PM ,   293 ,Tuesday
-10/8/19  ,1:00 PM  ,   262 ,Tuesday
-10/8/19  ,2:00 PM  ,   209 ,Tuesday
-10/8/19  ,3:00 PM  ,   317 ,Tuesday
-10/8/19  ,4:00 PM  ,   300 ,Tuesday
-10/8/19  ,5:00 PM  ,   366 ,Tuesday
-10/8/19  ,6:00 PM  ,   295 ,Tuesday
-10/8/19  ,7:00 PM  ,   277 ,Tuesday
-10/8/19  ,8:00 PM  ,   269 ,Tuesday
-10/8/19  ,9:00 PM  ,   173 ,Tuesday
-10/8/19  ,10:00 PM ,    31 ,Tuesday
-10/9/19  ,5:00 AM  ,     0 ,Wednesday
-10/9/19  ,6:00 AM  ,   178 ,Wednesday
-10/9/19  ,7:00 AM  ,   150 ,Wednesday
-10/9/19  ,8:00 AM  ,   193 ,Wednesday
-10/9/19  ,9:00 AM  ,   240 ,Wednesday
-10/9/19  ,10:00 AM ,   272 ,Wednesday
-10/9/19  ,11:00 AM ,   194 ,Wednesday
-10/9/19  ,12:00 PM ,   211 ,Wednesday
-10/9/19  ,1:00 PM  ,   200 ,Wednesday
-10/9/19  ,2:00 PM  ,   183 ,Wednesday
-10/9/19  ,3:00 PM  ,   247 ,Wednesday
-10/9/19  ,4:00 PM  ,   289 ,Wednesday
-10/9/19  ,5:00 PM  ,   315 ,Wednesday
-10/9/19  ,6:00 PM  ,   306 ,Wednesday
-10/9/19  ,7:00 PM  ,   306 ,Wednesday
-10/9/19  ,8:00 PM  ,   298 ,Wednesday
-10/9/19  ,9:00 PM  ,   196 ,Wednesday
-10/9/19  ,10:00 PM ,    33 ,Wednesday
-10/10/19 ,5:00 AM  ,     0 ,Thursday
-10/10/19 ,6:00 AM  ,   132 ,Thursday
-10/10/19 ,7:00 AM  ,   133 ,Thursday
-10/10/19 ,8:00 AM  ,   149 ,Thursday
-10/10/19 ,9:00 AM  ,   275 ,Thursday
-10/10/19 ,10:00 AM ,   260 ,Thursday
-10/10/19 ,11:00 AM ,   184 ,Thursday
-10/10/19 ,12:00 PM ,   264 ,Thursday
-10/10/19 ,1:00 PM  ,   230 ,Thursday
-10/10/19 ,2:00 PM  ,   214 ,Thursday
-10/10/19 ,3:00 PM  ,   265 ,Thursday
-10/10/19 ,4:00 PM  ,   224 ,Thursday
-10/10/19 ,5:00 PM  ,   289 ,Thursday
-10/10/19 ,6:00 PM  ,   276 ,Thursday
-10/10/19 ,7:00 PM  ,   215 ,Thursday
-10/10/19 ,8:00 PM  ,   199 ,Thursday
-10/10/19 ,9:00 PM  ,   141 ,Thursday
-10/10/19 ,10:00 PM ,    34 ,Thursday
-10/11/19 ,5:00 AM  ,     0 ,Friday
-10/11/19 ,6:00 AM  ,   128 ,Friday
-10/11/19 ,7:00 AM  ,   115 ,Friday
-10/11/19 ,8:00 AM  ,    99 ,Friday
-10/11/19 ,9:00 AM  ,   132 ,Friday
-10/11/19 ,10:00 AM ,   154 ,Friday
-10/11/19 ,11:00 AM ,   183 ,Friday
-10/11/19 ,12:00 PM ,   209 ,Friday
-10/11/19 ,1:00 PM  ,   164 ,Friday
-10/11/19 ,2:00 PM  ,   256 ,Friday
-10/11/19 ,3:00 PM  ,   269 ,Friday
-10/11/19 ,4:00 PM  ,   294 ,Friday
-10/11/19 ,5:00 PM  ,   303 ,Friday
-10/11/19 ,6:00 PM  ,   199 ,Friday
-10/11/19 ,7:00 PM  ,   278 ,Friday
-10/11/19 ,8:00 PM  ,    75 ,Friday
-10/11/19 ,9:00 PM  ,     0 ,Friday
-10/11/19 ,10:00 PM ,     0 ,Friday
-10/12/19 ,5:00 AM  ,     0 ,Saturday
-10/12/19 ,6:00 AM  ,     0 ,Saturday
-10/12/19 ,7:00 AM  ,     0 ,Saturday
-10/12/19 ,8:00 AM  ,    34 ,Saturday
-10/12/19 ,9:00 AM  ,   170 ,Saturday
-10/12/19 ,10:00 AM ,   159 ,Saturday
-10/12/19 ,11:00 AM ,   140 ,Saturday
-10/12/19 ,12:00 PM ,   133 ,Saturday
-10/12/19 ,1:00 PM  ,   114 ,Saturday
-10/12/19 ,2:00 PM  ,   150 ,Saturday
-10/12/19 ,3:00 PM  ,   150 ,Saturday
-10/12/19 ,4:00 PM  ,   178 ,Saturday
-10/12/19 ,5:00 PM  ,   166 ,Saturday
-10/12/19 ,6:00 PM  ,   133 ,Saturday
-10/12/19 ,7:00 PM  ,   182 ,Saturday
-10/12/19 ,8:00 PM  ,    55 ,Saturday
-10/12/19 ,9:00 PM  ,     0 ,Saturday
-10/12/19 ,10:00 PM ,     0 ,Saturday
-10/13/19 ,5:00 AM  ,     0 ,Sunday
-10/13/19 ,6:00 AM  ,     0 ,Sunday
-10/13/19 ,7:00 AM  ,     0 ,Sunday
-10/13/19 ,8:00 AM  ,     5 ,Sunday
-10/13/19 ,9:00 AM  ,   173 ,Sunday
-10/13/19 ,10:00 AM ,   116 ,Sunday
-10/13/19 ,11:00 AM ,    98 ,Sunday
-10/13/19 ,12:00 PM ,   105 ,Sunday
-10/13/19 ,1:00 PM  ,   121 ,Sunday
-10/13/19 ,2:00 PM  ,   122 ,Sunday
-10/13/19 ,3:00 PM  ,   121 ,Sunday
-10/13/19 ,4:00 PM  ,   160 ,Sunday
-10/13/19 ,5:00 PM  ,   161 ,Sunday
-10/13/19 ,6:00 PM  ,   169 ,Sunday
-10/13/19 ,7:00 PM  ,   164 ,Sunday
-10/13/19 ,8:00 PM  ,   162 ,Sunday
-10/13/19 ,9:00 PM  ,    43 ,Sunday
-10/13/19 ,10:00 PM ,     0 ,Sunday
-10/14/19 ,5:00 AM  ,     8 ,Monday
-10/14/19 ,6:00 AM  ,   148 ,Monday
-10/14/19 ,7:00 AM  ,   136 ,Monday
-10/14/19 ,8:00 AM  ,   184 ,Monday
-10/14/19 ,9:00 AM  ,   246 ,Monday
-10/14/19 ,10:00 AM ,   279 ,Monday
-10/14/19 ,11:00 AM ,   180 ,Monday
-10/14/19 ,12:00 PM ,   291 ,Monday
-10/14/19 ,1:00 PM  ,   186 ,Monday
-10/14/19 ,2:00 PM  ,   208 ,Monday
-10/14/19 ,3:00 PM  ,   218 ,Monday
-10/14/19 ,4:00 PM  ,   270 ,Monday
-10/14/19 ,5:00 PM  ,   320 ,Monday
-10/14/19 ,6:00 PM  ,   315 ,Monday
-10/14/19 ,7:00 PM  ,   311 ,Monday
-10/14/19 ,8:00 PM  ,   340 ,Monday
-10/14/19 ,9:00 PM  ,   202 ,Monday
-10/14/19 ,10:00 PM ,    30 ,Monday
-10/15/19 ,5:00 AM  ,     0 ,Tuesday
-10/15/19 ,6:00 AM  ,   136 ,Tuesday
-10/15/19 ,7:00 AM  ,   147 ,Tuesday
-10/15/19 ,8:00 AM  ,   170 ,Tuesday
-10/15/19 ,9:00 AM  ,   293 ,Tuesday
-10/15/19 ,10:00 AM ,   281 ,Tuesday
-10/15/19 ,11:00 AM ,   199 ,Tuesday
-10/15/19 ,12:00 PM ,   261 ,Tuesday
-10/15/19 ,1:00 PM  ,   224 ,Tuesday
-10/15/19 ,2:00 PM  ,   204 ,Tuesday
-10/15/19 ,3:00 PM  ,   308 ,Tuesday
-10/15/19 ,4:00 PM  ,   225 ,Tuesday
-10/15/19 ,5:00 PM  ,   303 ,Tuesday
-10/15/19 ,6:00 PM  ,   265 ,Tuesday
-10/15/19 ,7:00 PM  ,   301 ,Tuesday
-10/15/19 ,8:00 PM  ,   241 ,Tuesday
-10/15/19 ,9:00 PM  ,   163 ,Tuesday
-10/15/19 ,10:00 PM ,    32 ,Tuesday
-10/16/19 ,5:00 AM  ,     0 ,Wednesday
-10/16/19 ,6:00 AM  ,   173 ,Wednesday
-10/16/19 ,7:00 AM  ,   141 ,Wednesday
-10/16/19 ,8:00 AM  ,   164 ,Wednesday
-10/16/19 ,9:00 AM  ,   206 ,Wednesday
-10/16/19 ,10:00 AM ,   255 ,Wednesday
-10/16/19 ,11:00 AM ,   191 ,Wednesday
-10/16/19 ,12:00 PM ,   178 ,Wednesday
-10/16/19 ,1:00 PM  ,   160 ,Wednesday
-10/16/19 ,2:00 PM  ,   182 ,Wednesday
-10/16/19 ,3:00 PM  ,   230 ,Wednesday
-10/16/19 ,4:00 PM  ,   260 ,Wednesday
-10/16/19 ,5:00 PM  ,   352 ,Wednesday
-10/16/19 ,6:00 PM  ,   270 ,Wednesday
-10/16/19 ,7:00 PM  ,   241 ,Wednesday
-10/16/19 ,8:00 PM  ,   209 ,Wednesday
-10/16/19 ,9:00 PM  ,   189 ,Wednesday
-10/16/19 ,10:00 PM ,    40 ,Wednesday
-10/17/19 ,5:00 AM  ,     0 ,Thursday
-10/17/19 ,6:00 AM  ,   110 ,Thursday
-10/17/19 ,7:00 AM  ,    92 ,Thursday
-10/17/19 ,8:00 AM  ,   122 ,Thursday
-10/17/19 ,9:00 AM  ,   250 ,Thursday
-10/17/19 ,10:00 AM ,   218 ,Thursday
-10/17/19 ,11:00 AM ,   177 ,Thursday
-10/17/19 ,12:00 PM ,   253 ,Thursday
-10/17/19 ,1:00 PM  ,   190 ,Thursday
-10/17/19 ,2:00 PM  ,   163 ,Thursday
-10/17/19 ,3:00 PM  ,   254 ,Thursday
-10/17/19 ,4:00 PM  ,   217 ,Thursday
-10/17/19 ,5:00 PM  ,   305 ,Thursday
-10/17/19 ,6:00 PM  ,   269 ,Thursday
-10/17/19 ,7:00 PM  ,   266 ,Thursday
-10/17/19 ,8:00 PM  ,   223 ,Thursday
-10/17/19 ,9:00 PM  ,   144 ,Thursday
-10/17/19 ,10:00 PM ,    31 ,Thursday
-10/18/19 ,5:00 AM  ,     7 ,Friday
-10/18/19 ,6:00 AM  ,   102 ,Friday
-10/18/19 ,7:00 AM  ,    90 ,Friday
-10/18/19 ,8:00 AM  ,    97 ,Friday
-10/18/19 ,9:00 AM  ,   128 ,Friday
-10/18/19 ,10:00 AM ,   160 ,Friday
-10/18/19 ,11:00 AM ,   159 ,Friday
-10/18/19 ,12:00 PM ,   200 ,Friday
-10/18/19 ,1:00 PM  ,   171 ,Friday
-10/18/19 ,2:00 PM  ,   241 ,Friday
-10/18/19 ,3:00 PM  ,   271 ,Friday
-10/18/19 ,4:00 PM  ,   266 ,Friday
-10/18/19 ,5:00 PM  ,   251 ,Friday
-10/18/19 ,6:00 PM  ,   189 ,Friday
-10/18/19 ,7:00 PM  ,   181 ,Friday
-10/18/19 ,8:00 PM  ,    69 ,Friday
-10/18/19 ,9:00 PM  ,     0 ,Friday
-10/18/19 ,10:00 PM ,     0 ,Friday
-10/19/19 ,5:00 AM  ,     0 ,Saturday
-10/19/19 ,6:00 AM  ,     0 ,Saturday
-10/19/19 ,7:00 AM  ,     0 ,Saturday
-10/19/19 ,8:00 AM  ,    29 ,Saturday
-10/19/19 ,9:00 AM  ,   181 ,Saturday
-10/19/19 ,10:00 AM ,   173 ,Saturday
-10/19/19 ,11:00 AM ,   141 ,Saturday
-10/19/19 ,12:00 PM ,   138 ,Saturday
-10/19/19 ,1:00 PM  ,   136 ,Saturday
-10/19/19 ,2:00 PM  ,   124 ,Saturday
-10/19/19 ,3:00 PM  ,   143 ,Saturday
-10/19/19 ,4:00 PM  ,   179 ,Saturday
-10/19/19 ,5:00 PM  ,   170 ,Saturday
-10/19/19 ,6:00 PM  ,   176 ,Saturday
-10/19/19 ,7:00 PM  ,   157 ,Saturday
-10/19/19 ,8:00 PM  ,    60 ,Saturday
-10/19/19 ,9:00 PM  ,     0 ,Saturday
-10/19/19 ,10:00 PM ,     0 ,Saturday
-10/20/19 ,5:00 AM  ,     0 ,Sunday
-10/20/19 ,6:00 AM  ,     0 ,Sunday
-10/20/19 ,7:00 AM  ,     0 ,Sunday
-10/20/19 ,8:00 AM  ,    19 ,Sunday
-10/20/19 ,9:00 AM  ,   162 ,Sunday
-10/20/19 ,10:00 AM ,   117 ,Sunday
-10/20/19 ,11:00 AM ,   108 ,Sunday
-10/20/19 ,12:00 PM ,    91 ,Sunday
-10/20/19 ,1:00 PM  ,   103 ,Sunday
-10/20/19 ,2:00 PM  ,   111 ,Sunday
-10/20/19 ,3:00 PM  ,   111 ,Sunday
-10/20/19 ,4:00 PM  ,   167 ,Sunday
-10/20/19 ,5:00 PM  ,   165 ,Sunday
-10/20/19 ,6:00 PM  ,   169 ,Sunday
-10/20/19 ,7:00 PM  ,   146 ,Sunday
-10/20/19 ,8:00 PM  ,   139 ,Sunday
-10/20/19 ,9:00 PM  ,    32 ,Sunday
-10/20/19 ,10:00 PM ,     0 ,Sunday
-10/21/19 ,5:00 AM  ,     0 ,Monday
-10/21/19 ,6:00 AM  ,   144 ,Monday
-10/21/19 ,7:00 AM  ,   124 ,Monday
-10/21/19 ,8:00 AM  ,   158 ,Monday
-10/21/19 ,9:00 AM  ,   247 ,Monday
-10/21/19 ,10:00 AM ,   191 ,Monday
-10/21/19 ,11:00 AM ,   166 ,Monday
-10/21/19 ,12:00 PM ,   225 ,Monday
-10/21/19 ,1:00 PM  ,   185 ,Monday
-10/21/19 ,2:00 PM  ,   213 ,Monday
-10/21/19 ,3:00 PM  ,   206 ,Monday
-10/21/19 ,4:00 PM  ,   232 ,Monday
-10/21/19 ,5:00 PM  ,   329 ,Monday
-10/21/19 ,6:00 PM  ,   321 ,Monday
-10/21/19 ,7:00 PM  ,   305 ,Monday
-10/21/19 ,8:00 PM  ,   283 ,Monday
-10/21/19 ,9:00 PM  ,   181 ,Monday
-10/21/19 ,10:00 PM ,    41 ,Monday
-10/22/19 ,5:00 AM  ,     0 ,Tuesday
-10/22/19 ,6:00 AM  ,   139 ,Tuesday
-10/22/19 ,7:00 AM  ,   142 ,Tuesday
-10/22/19 ,8:00 AM  ,   149 ,Tuesday
-10/22/19 ,9:00 AM  ,   259 ,Tuesday
-10/22/19 ,10:00 AM ,   281 ,Tuesday
-10/22/19 ,11:00 AM ,   173 ,Tuesday
-10/22/19 ,12:00 PM ,   261 ,Tuesday
-10/22/19 ,1:00 PM  ,   256 ,Tuesday
-10/22/19 ,2:00 PM  ,   185 ,Tuesday
-10/22/19 ,3:00 PM  ,   262 ,Tuesday
-10/22/19 ,4:00 PM  ,   253 ,Tuesday
-10/22/19 ,5:00 PM  ,   346 ,Tuesday
-10/22/19 ,6:00 PM  ,   257 ,Tuesday
-10/22/19 ,7:00 PM  ,   203 ,Tuesday
-10/22/19 ,8:00 PM  ,   272 ,Tuesday
-10/22/19 ,9:00 PM  ,   159 ,Tuesday
-10/22/19 ,10:00 PM ,    30 ,Tuesday
-10/23/19 ,5:00 AM  ,     0 ,Wednesday
-10/23/19 ,6:00 AM  ,   145 ,Wednesday
-10/23/19 ,7:00 AM  ,   143 ,Wednesday
-10/23/19 ,8:00 AM  ,   170 ,Wednesday
-10/23/19 ,9:00 AM  ,   193 ,Wednesday
-10/23/19 ,10:00 AM ,   209 ,Wednesday
-10/23/19 ,11:00 AM ,   161 ,Wednesday
-10/23/19 ,12:00 PM ,   197 ,Wednesday
-10/23/19 ,1:00 PM  ,   197 ,Wednesday
-10/23/19 ,2:00 PM  ,   162 ,Wednesday
-10/23/19 ,3:00 PM  ,   247 ,Wednesday
-10/23/19 ,4:00 PM  ,   249 ,Wednesday
-10/23/19 ,5:00 PM  ,   344 ,Wednesday
-10/23/19 ,6:00 PM  ,   277 ,Wednesday
-10/23/19 ,7:00 PM  ,   243 ,Wednesday
-10/23/19 ,8:00 PM  ,   265 ,Wednesday
-10/23/19 ,9:00 PM  ,   224 ,Wednesday
-10/23/19 ,10:00 PM ,    33 ,Wednesday
-10/24/19 ,5:00 AM  ,     0 ,Thursday
-10/24/19 ,6:00 AM  ,   108 ,Thursday
-10/24/19 ,7:00 AM  ,    87 ,Thursday
-10/24/19 ,8:00 AM  ,   131 ,Thursday
-10/24/19 ,9:00 AM  ,   246 ,Thursday
-10/24/19 ,10:00 AM ,   238 ,Thursday
-10/24/19 ,11:00 AM ,   194 ,Thursday
-10/24/19 ,12:00 PM ,   216 ,Thursday
-10/24/19 ,1:00 PM  ,   218 ,Thursday
-10/24/19 ,2:00 PM  ,   206 ,Thursday
-10/24/19 ,3:00 PM  ,   244 ,Thursday
-10/24/19 ,4:00 PM  ,   236 ,Thursday
-10/24/19 ,5:00 PM  ,   288 ,Thursday
-10/24/19 ,6:00 PM  ,   239 ,Thursday
-10/24/19 ,7:00 PM  ,   204 ,Thursday
-10/24/19 ,8:00 PM  ,   200 ,Thursday
-10/24/19 ,9:00 PM  ,   151 ,Thursday
-10/24/19 ,10:00 PM ,    25 ,Thursday
-10/25/19 ,5:00 AM  ,    11 ,Friday
-10/25/19 ,6:00 AM  ,    78 ,Friday
-10/25/19 ,7:00 AM  ,    92 ,Friday
-10/25/19 ,8:00 AM  ,   111 ,Friday
-10/25/19 ,9:00 AM  ,   128 ,Friday
-10/25/19 ,10:00 AM ,   145 ,Friday
-10/25/19 ,11:00 AM ,   184 ,Friday
-10/25/19 ,12:00 PM ,   197 ,Friday
-10/25/19 ,1:00 PM  ,   189 ,Friday
-10/25/19 ,2:00 PM  ,   242 ,Friday
-10/25/19 ,3:00 PM  ,   259 ,Friday
-10/25/19 ,4:00 PM  ,   230 ,Friday
-10/25/19 ,5:00 PM  ,   209 ,Friday
-10/25/19 ,6:00 PM  ,   165 ,Friday
-10/25/19 ,7:00 PM  ,   156 ,Friday
-10/25/19 ,8:00 PM  ,    71 ,Friday
-10/25/19 ,9:00 PM  ,     0 ,Friday
-10/25/19 ,10:00 PM ,     0 ,Friday
-10/26/19 ,5:00 AM  ,     0 ,Saturday
-10/26/19 ,6:00 AM  ,     0 ,Saturday
-10/26/19 ,7:00 AM  ,     0 ,Saturday
-10/26/19 ,8:00 AM  ,     7 ,Saturday
-10/26/19 ,9:00 AM  ,   169 ,Saturday
-10/26/19 ,10:00 AM ,   153 ,Saturday
-10/26/19 ,11:00 AM ,   131 ,Saturday
-10/26/19 ,12:00 PM ,   151 ,Saturday
-10/26/19 ,1:00 PM  ,   142 ,Saturday
-10/26/19 ,2:00 PM  ,   150 ,Saturday
-10/26/19 ,3:00 PM  ,   161 ,Saturday
-10/26/19 ,4:00 PM  ,   165 ,Saturday
-10/26/19 ,5:00 PM  ,   162 ,Saturday
-10/26/19 ,6:00 PM  ,   137 ,Saturday
-10/26/19 ,7:00 PM  ,   131 ,Saturday
-10/26/19 ,8:00 PM  ,    54 ,Saturday
-10/26/19 ,9:00 PM  ,     0 ,Saturday
-10/26/19 ,10:00 PM ,     0 ,Saturday
-10/27/19 ,5:00 AM  ,     0 ,Sunday
-10/27/19 ,6:00 AM  ,     0 ,Sunday
-10/27/19 ,7:00 AM  ,     0 ,Sunday
-10/27/19 ,8:00 AM  ,    32 ,Sunday
-10/27/19 ,9:00 AM  ,   144 ,Sunday
-10/27/19 ,10:00 AM ,   148 ,Sunday
-10/27/19 ,11:00 AM ,   114 ,Sunday
-10/27/19 ,12:00 PM ,   106 ,Sunday
-10/27/19 ,1:00 PM  ,   117 ,Sunday
-10/27/19 ,2:00 PM  ,   104 ,Sunday
-10/27/19 ,3:00 PM  ,   143 ,Sunday
-10/27/19 ,4:00 PM  ,   189 ,Sunday
-10/27/19 ,5:00 PM  ,   162 ,Sunday
-10/27/19 ,6:00 PM  ,   157 ,Sunday
-10/27/19 ,7:00 PM  ,   155 ,Sunday
-10/27/19 ,8:00 PM  ,   153 ,Sunday
-10/27/19 ,9:00 PM  ,    37 ,Sunday
-10/27/19 ,10:00 PM ,     0 ,Sunday
-10/28/19 ,5:00 AM  ,     0 ,Monday
-10/28/19 ,6:00 AM  ,   141 ,Monday
-10/28/19 ,7:00 AM  ,   122 ,Monday
-10/28/19 ,8:00 AM  ,   151 ,Monday
-10/28/19 ,9:00 AM  ,   225 ,Monday
-10/28/19 ,10:00 AM ,   245 ,Monday
-10/28/19 ,11:00 AM ,   178 ,Monday
-10/28/19 ,12:00 PM ,   256 ,Monday
-10/28/19 ,1:00 PM  ,   177 ,Monday
-10/28/19 ,2:00 PM  ,   189 ,Monday
-10/28/19 ,3:00 PM  ,   214 ,Monday
-10/28/19 ,4:00 PM  ,   262 ,Monday
-10/28/19 ,5:00 PM  ,   335 ,Monday
-10/28/19 ,6:00 PM  ,   315 ,Monday
-10/28/19 ,7:00 PM  ,   278 ,Monday
-10/28/19 ,8:00 PM  ,   246 ,Monday
-10/28/19 ,9:00 PM  ,   176 ,Monday
-10/28/19 ,10:00 PM ,    38 ,Monday
-10/29/19 ,5:00 AM  ,     0 ,Tuesday
-10/29/19 ,6:00 AM  ,   116 ,Tuesday
-10/29/19 ,7:00 AM  ,   103 ,Tuesday
-10/29/19 ,8:00 AM  ,   131 ,Tuesday
-10/29/19 ,9:00 AM  ,   228 ,Tuesday
-10/29/19 ,10:00 AM ,   273 ,Tuesday
-10/29/19 ,11:00 AM ,   184 ,Tuesday
-10/29/19 ,12:00 PM ,   215 ,Tuesday
-10/29/19 ,1:00 PM  ,   228 ,Tuesday
-10/29/19 ,2:00 PM  ,   175 ,Tuesday
-10/29/19 ,3:00 PM  ,   233 ,Tuesday
-10/29/19 ,4:00 PM  ,   273 ,Tuesday
-10/29/19 ,5:00 PM  ,   310 ,Tuesday
-10/29/19 ,6:00 PM  ,   274 ,Tuesday
-10/29/19 ,7:00 PM  ,   239 ,Tuesday
-10/29/19 ,8:00 PM  ,   208 ,Tuesday
-10/29/19 ,9:00 PM  ,   157 ,Tuesday
-10/29/19 ,10:00 PM ,    36 ,Tuesday
-10/30/19 ,5:00 AM  ,     0 ,Wednesday
-10/30/19 ,6:00 AM  ,   143 ,Wednesday
-10/30/19 ,7:00 AM  ,   161 ,Wednesday
-10/30/19 ,8:00 AM  ,   145 ,Wednesday
-10/30/19 ,9:00 AM  ,   205 ,Wednesday
-10/30/19 ,10:00 AM ,   209 ,Wednesday
-10/30/19 ,11:00 AM ,   198 ,Wednesday
-10/30/19 ,12:00 PM ,   189 ,Wednesday
-10/30/19 ,1:00 PM  ,   133 ,Wednesday
-10/30/19 ,2:00 PM  ,   162 ,Wednesday
-10/30/19 ,3:00 PM  ,   210 ,Wednesday
-10/30/19 ,4:00 PM  ,   239 ,Wednesday
-10/30/19 ,5:00 PM  ,   342 ,Wednesday
-10/30/19 ,6:00 PM  ,   252 ,Wednesday
-10/30/19 ,7:00 PM  ,   190 ,Wednesday
-10/30/19 ,8:00 PM  ,   188 ,Wednesday
-10/30/19 ,9:00 PM  ,   161 ,Wednesday
-10/30/19 ,10:00 PM ,    29 ,Wednesday
-10/31/19 ,5:00 AM  ,     0 ,Thursday
-10/31/19 ,6:00 AM  ,    67 ,Thursday
-10/31/19 ,7:00 AM  ,    80 ,Thursday
-10/31/19 ,8:00 AM  ,   109 ,Thursday
-10/31/19 ,9:00 AM  ,   206 ,Thursday
-10/31/19 ,10:00 AM ,   205 ,Thursday
-10/31/19 ,11:00 AM ,   177 ,Thursday
-10/31/19 ,12:00 PM ,   217 ,Thursday
-10/31/19 ,1:00 PM  ,   167 ,Thursday
-10/31/19 ,2:00 PM  ,   155 ,Thursday
-10/31/19 ,3:00 PM  ,   251 ,Thursday
-10/31/19 ,4:00 PM  ,   209 ,Thursday
-10/31/19 ,5:00 PM  ,   222 ,Thursday
-10/31/19 ,6:00 PM  ,   187 ,Thursday
-10/31/19 ,7:00 PM  ,   173 ,Thursday
-10/31/19 ,8:00 PM  ,   114 ,Thursday
-10/31/19 ,9:00 PM  ,    98 ,Thursday
-10/31/19 ,10:00 PM ,    21 ,Thursday
-11/1/19  ,5:00 AM  ,     0 ,Friday
-11/1/19  ,6:00 AM  ,    73 ,Friday
-11/1/19  ,7:00 AM  ,    72 ,Friday
-11/1/19  ,8:00 AM  ,    75 ,Friday
-11/1/19  ,9:00 AM  ,   116 ,Friday
-11/1/19  ,10:00 AM ,   117 ,Friday
-11/1/19  ,11:00 AM ,   128 ,Friday
-11/1/19  ,12:00 PM ,   166 ,Friday
-11/1/19  ,1:00 PM  ,   148 ,Friday
-11/1/19  ,2:00 PM  ,   187 ,Friday
-11/1/19  ,3:00 PM  ,   211 ,Friday
-11/1/19  ,4:00 PM  ,   242 ,Friday
-11/1/19  ,5:00 PM  ,   296 ,Friday
-11/1/19  ,6:00 PM  ,   209 ,Friday
-11/1/19  ,7:00 PM  ,   187 ,Friday
-11/1/19  ,8:00 PM  ,    58 ,Friday
-11/1/19  ,9:00 PM  ,     0 ,Friday
-11/1/19  ,10:00 PM ,     0 ,Friday
-11/2/19  ,5:00 AM  ,     0 ,Saturday
-11/2/19  ,6:00 AM  ,     0 ,Saturday
-11/2/19  ,7:00 AM  ,     0 ,Saturday
-11/2/19  ,8:00 AM  ,     8 ,Saturday
-11/2/19  ,9:00 AM  ,   191 ,Saturday
-11/2/19  ,10:00 AM ,   158 ,Saturday
-11/2/19  ,11:00 AM ,   178 ,Saturday
-11/2/19  ,12:00 PM ,   128 ,Saturday
-11/2/19  ,1:00 PM  ,   125 ,Saturday
-11/2/19  ,2:00 PM  ,   108 ,Saturday
-11/2/19  ,3:00 PM  ,   142 ,Saturday
-11/2/19  ,4:00 PM  ,   178 ,Saturday
-11/2/19  ,5:00 PM  ,   179 ,Saturday
-11/2/19  ,6:00 PM  ,   129 ,Saturday
-11/2/19  ,7:00 PM  ,   146 ,Saturday
-11/2/19  ,8:00 PM  ,    65 ,Saturday
-11/2/19  ,9:00 PM  ,     0 ,Saturday
-11/2/19  ,10:00 PM ,     0 ,Saturday
-11/3/19  ,5:00 AM  ,     0 ,Sunday
-11/3/19  ,6:00 AM  ,     0 ,Sunday
-11/3/19  ,7:00 AM  ,     0 ,Sunday
-11/3/19  ,8:00 AM  ,     4 ,Sunday
-11/3/19  ,9:00 AM  ,   226 ,Sunday
-11/3/19  ,10:00 AM ,   162 ,Sunday
-11/3/19  ,11:00 AM ,   124 ,Sunday
-11/3/19  ,12:00 PM ,   110 ,Sunday
-11/3/19  ,1:00 PM  ,   111 ,Sunday
-11/3/19  ,2:00 PM  ,   148 ,Sunday
-11/3/19  ,3:00 PM  ,   112 ,Sunday
-11/3/19  ,4:00 PM  ,   202 ,Sunday
-11/3/19  ,5:00 PM  ,   191 ,Sunday
-11/3/19  ,6:00 PM  ,   129 ,Sunday
-11/3/19  ,7:00 PM  ,   146 ,Sunday
-11/3/19  ,8:00 PM  ,    91 ,Sunday
-11/3/19  ,9:00 PM  ,    33 ,Sunday
-11/3/19  ,10:00 PM ,     0 ,Sunday
-11/4/19  ,5:00 AM  ,    14 ,Monday
-11/4/19  ,6:00 AM  ,   151 ,Monday
-11/4/19  ,7:00 AM  ,   152 ,Monday
-11/4/19  ,8:00 AM  ,   172 ,Monday
-11/4/19  ,9:00 AM  ,   232 ,Monday
-11/4/19  ,10:00 AM ,   228 ,Monday
-11/4/19  ,11:00 AM ,   159 ,Monday
-11/4/19  ,12:00 PM ,   240 ,Monday
-11/4/19  ,1:00 PM  ,   189 ,Monday
-11/4/19  ,2:00 PM  ,   184 ,Monday
-11/4/19  ,3:00 PM  ,   226 ,Monday
-11/4/19  ,4:00 PM  ,   250 ,Monday
-11/4/19  ,5:00 PM  ,   333 ,Monday
-11/4/19  ,6:00 PM  ,   244 ,Monday
-11/4/19  ,7:00 PM  ,   234 ,Monday
-11/4/19  ,8:00 PM  ,   267 ,Monday
-11/4/19  ,9:00 PM  ,   174 ,Monday
-11/4/19  ,10:00 PM ,    30 ,Monday
-11/5/19  ,5:00 AM  ,    10 ,Tuesday
-11/5/19  ,6:00 AM  ,   128 ,Tuesday
-11/5/19  ,7:00 AM  ,   142 ,Tuesday
-11/5/19  ,8:00 AM  ,   156 ,Tuesday
-11/5/19  ,9:00 AM  ,   195 ,Tuesday
-11/5/19  ,10:00 AM ,   266 ,Tuesday
-11/5/19  ,11:00 AM ,   197 ,Tuesday
-11/5/19  ,12:00 PM ,   227 ,Tuesday
-11/5/19  ,1:00 PM  ,   241 ,Tuesday
-11/5/19  ,2:00 PM  ,   207 ,Tuesday
-11/5/19  ,3:00 PM  ,   258 ,Tuesday
-11/5/19  ,4:00 PM  ,   260 ,Tuesday
-11/5/19  ,5:00 PM  ,   305 ,Tuesday
-11/5/19  ,6:00 PM  ,   254 ,Tuesday
-11/5/19  ,7:00 PM  ,   250 ,Tuesday
-11/5/19  ,8:00 PM  ,   238 ,Tuesday
-11/5/19  ,9:00 PM  ,   159 ,Tuesday
-11/5/19  ,10:00 PM ,    33 ,Tuesday
-11/6/19  ,5:00 AM  ,     1 ,Wednesday
-11/6/19  ,6:00 AM  ,   133 ,Wednesday
-11/6/19  ,7:00 AM  ,   151 ,Wednesday
-11/6/19  ,8:00 AM  ,   161 ,Wednesday
-11/6/19  ,9:00 AM  ,   230 ,Wednesday
-11/6/19  ,10:00 AM ,   231 ,Wednesday
-11/6/19  ,11:00 AM ,   177 ,Wednesday
-11/6/19  ,12:00 PM ,   198 ,Wednesday
-11/6/19  ,1:00 PM  ,   181 ,Wednesday
-11/6/19  ,2:00 PM  ,   172 ,Wednesday
-11/6/19  ,3:00 PM  ,   233 ,Wednesday
-11/6/19  ,4:00 PM  ,   316 ,Wednesday
-11/6/19  ,5:00 PM  ,   290 ,Wednesday
-11/6/19  ,6:00 PM  ,   235 ,Wednesday
-11/6/19  ,7:00 PM  ,   204 ,Wednesday
-11/6/19  ,8:00 PM  ,   202 ,Wednesday
-11/6/19  ,9:00 PM  ,   165 ,Wednesday
-11/6/19  ,10:00 PM ,    29 ,Wednesday
-11/7/19  ,5:00 AM  ,     0 ,Thursday
-11/7/19  ,6:00 AM  ,   103 ,Thursday
-11/7/19  ,7:00 AM  ,   111 ,Thursday
-11/7/19  ,8:00 AM  ,   124 ,Thursday
-11/7/19  ,9:00 AM  ,   253 ,Thursday
-11/7/19  ,10:00 AM ,   232 ,Thursday
-11/7/19  ,11:00 AM ,   178 ,Thursday
-11/7/19  ,12:00 PM ,   233 ,Thursday
-11/7/19  ,1:00 PM  ,   179 ,Thursday
-11/7/19  ,2:00 PM  ,   175 ,Thursday
-11/7/19  ,3:00 PM  ,   231 ,Thursday
-11/7/19  ,4:00 PM  ,   273 ,Thursday
-11/7/19  ,5:00 PM  ,   292 ,Thursday
-11/7/19  ,6:00 PM  ,   253 ,Thursday
-11/7/19  ,7:00 PM  ,   168 ,Thursday
-11/7/19  ,8:00 PM  ,   164 ,Thursday
-11/7/19  ,9:00 PM  ,   118 ,Thursday
-11/7/19  ,10:00 PM ,    38 ,Thursday
-11/8/19  ,5:00 AM  ,     2 ,Friday
-11/8/19  ,6:00 AM  ,   124 ,Friday
-11/8/19  ,7:00 AM  ,    84 ,Friday
-11/8/19  ,8:00 AM  ,   110 ,Friday
-11/8/19  ,9:00 AM  ,   130 ,Friday
-11/8/19  ,10:00 AM ,   156 ,Friday
-11/8/19  ,11:00 AM ,   167 ,Friday
-11/8/19  ,12:00 PM ,   169 ,Friday
-11/8/19  ,1:00 PM  ,   130 ,Friday
-11/8/19  ,2:00 PM  ,   243 ,Friday
-11/8/19  ,3:00 PM  ,   263 ,Friday
-11/8/19  ,4:00 PM  ,   266 ,Friday
-11/8/19  ,5:00 PM  ,   266 ,Friday
-11/8/19  ,6:00 PM  ,   147 ,Friday
-11/8/19  ,7:00 PM  ,   136 ,Friday
-11/8/19  ,8:00 PM  ,    45 ,Friday
-11/8/19  ,9:00 PM  ,     0 ,Friday
-11/8/19  ,10:00 PM ,     0 ,Friday
-11/9/19  ,5:00 AM  ,     0 ,Saturday
-11/9/19  ,6:00 AM  ,     0 ,Saturday
-11/9/19  ,7:00 AM  ,     0 ,Saturday
-11/9/19  ,8:00 AM  ,     1 ,Saturday
-11/9/19  ,9:00 AM  ,   185 ,Saturday
-11/9/19  ,10:00 AM ,   118 ,Saturday
-11/9/19  ,11:00 AM ,   132 ,Saturday
-11/9/19  ,12:00 PM ,   109 ,Saturday
-11/9/19  ,1:00 PM  ,    94 ,Saturday
-11/9/19  ,2:00 PM  ,   118 ,Saturday
-11/9/19  ,3:00 PM  ,   122 ,Saturday
-11/9/19  ,4:00 PM  ,   198 ,Saturday
-11/9/19  ,5:00 PM  ,   146 ,Saturday
-11/9/19  ,6:00 PM  ,   136 ,Saturday
-11/9/19  ,7:00 PM  ,   150 ,Saturday
-11/9/19  ,8:00 PM  ,    43 ,Saturday
-11/9/19  ,9:00 PM  ,     0 ,Saturday
-11/9/19  ,10:00 PM ,     0 ,Saturday
-11/10/19 ,5:00 AM  ,     0 ,Sunday
-11/10/19 ,6:00 AM  ,     0 ,Sunday
-11/10/19 ,7:00 AM  ,     0 ,Sunday
-11/10/19 ,8:00 AM  ,     0 ,Sunday
-11/10/19 ,9:00 AM  ,   161 ,Sunday
-11/10/19 ,10:00 AM ,   125 ,Sunday
-11/10/19 ,11:00 AM ,   114 ,Sunday
-11/10/19 ,12:00 PM ,   124 ,Sunday
-11/10/19 ,1:00 PM  ,   120 ,Sunday
-11/10/19 ,2:00 PM  ,   139 ,Sunday
-11/10/19 ,3:00 PM  ,   150 ,Sunday
-11/10/19 ,4:00 PM  ,   184 ,Sunday
-11/10/19 ,5:00 PM  ,   171 ,Sunday
-11/10/19 ,6:00 PM  ,   150 ,Sunday
-11/10/19 ,7:00 PM  ,   114 ,Sunday
-11/10/19 ,8:00 PM  ,   206 ,Sunday
-11/10/19 ,9:00 PM  ,    20 ,Sunday
-11/10/19 ,10:00 PM ,     0 ,Sunday
-11/11/19 ,5:00 AM  ,     0 ,Monday
-11/11/19 ,6:00 AM  ,     0 ,Monday
-11/11/19 ,7:00 AM  ,     0 ,Monday
-11/11/19 ,8:00 AM  ,     0 ,Monday
-11/11/19 ,9:00 AM  ,     0 ,Monday
-11/11/19 ,10:00 AM ,     0 ,Monday
-11/11/19 ,11:00 AM ,     0 ,Monday
-11/11/19 ,12:00 PM ,     0 ,Monday
-11/11/19 ,1:00 PM  ,     0 ,Monday
-11/11/19 ,2:00 PM  ,     0 ,Monday
-11/11/19 ,3:00 PM  ,     0 ,Monday
-11/11/19 ,4:00 PM  ,     0 ,Monday
-11/11/19 ,5:00 PM  ,     0 ,Monday
-11/11/19 ,6:00 PM  ,     0 ,Monday
-11/11/19 ,7:00 PM  ,     0 ,Monday
-11/11/19 ,8:00 PM  ,     0 ,Monday
-11/11/19 ,9:00 PM  ,     0 ,Monday
-11/11/19 ,10:00 PM ,     0 ,Monday
-11/12/19 ,5:00 AM  ,     0 ,Tuesday
-11/12/19 ,6:00 AM  ,   142 ,Tuesday
-11/12/19 ,7:00 AM  ,   141 ,Tuesday
-11/12/19 ,8:00 AM  ,   140 ,Tuesday
-11/12/19 ,9:00 AM  ,   188 ,Tuesday
-11/12/19 ,10:00 AM ,   238 ,Tuesday
-11/12/19 ,11:00 AM ,   191 ,Tuesday
-11/12/19 ,12:00 PM ,   257 ,Tuesday
-11/12/19 ,1:00 PM  ,   262 ,Tuesday
-11/12/19 ,2:00 PM  ,   213 ,Tuesday
-11/12/19 ,3:00 PM  ,   328 ,Tuesday
-11/12/19 ,4:00 PM  ,   273 ,Tuesday
-11/12/19 ,5:00 PM  ,   351 ,Tuesday
-11/12/19 ,6:00 PM  ,   274 ,Tuesday
-11/12/19 ,7:00 PM  ,   257 ,Tuesday
-11/12/19 ,8:00 PM  ,   261 ,Tuesday
-11/12/19 ,9:00 PM  ,   170 ,Tuesday
-11/12/19 ,10:00 PM ,    45 ,Tuesday
-11/13/19 ,5:00 AM  ,     0 ,Wednesday
-11/13/19 ,6:00 AM  ,   135 ,Wednesday
-11/13/19 ,7:00 AM  ,   134 ,Wednesday
-11/13/19 ,8:00 AM  ,   141 ,Wednesday
-11/13/19 ,9:00 AM  ,   187 ,Wednesday
-11/13/19 ,10:00 AM ,   227 ,Wednesday
-11/13/19 ,11:00 AM ,   176 ,Wednesday
-11/13/19 ,12:00 PM ,   172 ,Wednesday
-11/13/19 ,1:00 PM  ,   160 ,Wednesday
-11/13/19 ,2:00 PM  ,   187 ,Wednesday
-11/13/19 ,3:00 PM  ,   249 ,Wednesday
-11/13/19 ,4:00 PM  ,   263 ,Wednesday
-11/13/19 ,5:00 PM  ,   340 ,Wednesday
-11/13/19 ,6:00 PM  ,   290 ,Wednesday
-11/13/19 ,7:00 PM  ,   233 ,Wednesday
-11/13/19 ,8:00 PM  ,   243 ,Wednesday
-11/13/19 ,9:00 PM  ,   177 ,Wednesday
-11/13/19 ,10:00 PM ,    30 ,Wednesday
-11/14/19 ,5:00 AM  ,     0 ,Thursday
-11/14/19 ,6:00 AM  ,   106 ,Thursday
-11/14/19 ,7:00 AM  ,   104 ,Thursday
-11/14/19 ,8:00 AM  ,   144 ,Thursday
-11/14/19 ,9:00 AM  ,   214 ,Thursday
-11/14/19 ,10:00 AM ,   217 ,Thursday
-11/14/19 ,11:00 AM ,   184 ,Thursday
-11/14/19 ,12:00 PM ,   237 ,Thursday
-11/14/19 ,1:00 PM  ,   270 ,Thursday
-11/14/19 ,2:00 PM  ,   210 ,Thursday
-11/14/19 ,3:00 PM  ,   255 ,Thursday
-11/14/19 ,4:00 PM  ,   292 ,Thursday
-11/14/19 ,5:00 PM  ,   336 ,Thursday
-11/14/19 ,6:00 PM  ,   268 ,Thursday
-11/14/19 ,7:00 PM  ,   232 ,Thursday
-11/14/19 ,8:00 PM  ,   217 ,Thursday
-11/14/19 ,9:00 PM  ,   136 ,Thursday
-11/14/19 ,10:00 PM ,    32 ,Thursday
-11/15/19 ,5:00 AM  ,     0 ,Friday
-11/15/19 ,6:00 AM  ,   109 ,Friday
-11/15/19 ,7:00 AM  ,    82 ,Friday
-11/15/19 ,8:00 AM  ,   112 ,Friday
-11/15/19 ,9:00 AM  ,   143 ,Friday
-11/15/19 ,10:00 AM ,   157 ,Friday
-11/15/19 ,11:00 AM ,   168 ,Friday
-11/15/19 ,12:00 PM ,   205 ,Friday
-11/15/19 ,1:00 PM  ,   175 ,Friday
-11/15/19 ,2:00 PM  ,   248 ,Friday
-11/15/19 ,3:00 PM  ,   267 ,Friday
-11/15/19 ,4:00 PM  ,   322 ,Friday
-11/15/19 ,5:00 PM  ,   324 ,Friday
-11/15/19 ,6:00 PM  ,   200 ,Friday
-11/15/19 ,7:00 PM  ,   206 ,Friday
-11/15/19 ,8:00 PM  ,    49 ,Friday
-11/15/19 ,9:00 PM  ,     0 ,Friday
-11/15/19 ,10:00 PM ,     0 ,Friday
-11/16/19 ,5:00 AM  ,     0 ,Saturday
-11/16/19 ,6:00 AM  ,     0 ,Saturday
-11/16/19 ,7:00 AM  ,     0 ,Saturday
-11/16/19 ,8:00 AM  ,    28 ,Saturday
-11/16/19 ,9:00 AM  ,   168 ,Saturday
-11/16/19 ,10:00 AM ,   171 ,Saturday
-11/16/19 ,11:00 AM ,   144 ,Saturday
-11/16/19 ,12:00 PM ,   131 ,Saturday
-11/16/19 ,1:00 PM  ,   138 ,Saturday
-11/16/19 ,2:00 PM  ,   164 ,Saturday
-11/16/19 ,3:00 PM  ,   194 ,Saturday
-11/16/19 ,4:00 PM  ,   209 ,Saturday
-11/16/19 ,5:00 PM  ,   221 ,Saturday
-11/16/19 ,6:00 PM  ,   187 ,Saturday
-11/16/19 ,7:00 PM  ,   174 ,Saturday
-11/16/19 ,8:00 PM  ,    51 ,Saturday
-11/16/19 ,9:00 PM  ,     0 ,Saturday
-11/16/19 ,10:00 PM ,     0 ,Saturday
-11/17/19 ,5:00 AM  ,     0 ,Sunday
-11/17/19 ,6:00 AM  ,     0 ,Sunday
-11/17/19 ,7:00 AM  ,     0 ,Sunday
-11/17/19 ,8:00 AM  ,     0 ,Sunday
-11/17/19 ,9:00 AM  ,   175 ,Sunday
-11/17/19 ,10:00 AM ,   111 ,Sunday
-11/17/19 ,11:00 AM ,   131 ,Sunday
-11/17/19 ,12:00 PM ,   113 ,Sunday
-11/17/19 ,1:00 PM  ,   127 ,Sunday
-11/17/19 ,2:00 PM  ,   153 ,Sunday
-11/17/19 ,3:00 PM  ,   157 ,Sunday
-11/17/19 ,4:00 PM  ,   198 ,Sunday
-11/17/19 ,5:00 PM  ,   173 ,Sunday
-11/17/19 ,6:00 PM  ,   163 ,Sunday
-11/17/19 ,7:00 PM  ,   156 ,Sunday
-11/17/19 ,8:00 PM  ,   151 ,Sunday
-11/17/19 ,9:00 PM  ,    48 ,Sunday
-11/17/19 ,10:00 PM ,     0 ,Sunday
-11/18/19 ,5:00 AM  ,     3 ,Monday
-11/18/19 ,6:00 AM  ,   139 ,Monday
-11/18/19 ,7:00 AM  ,   128 ,Monday
-11/18/19 ,8:00 AM  ,   142 ,Monday
-11/18/19 ,9:00 AM  ,   215 ,Monday
-11/18/19 ,10:00 AM ,   217 ,Monday
-11/18/19 ,11:00 AM ,   158 ,Monday
-11/18/19 ,12:00 PM ,   282 ,Monday
-11/18/19 ,1:00 PM  ,   169 ,Monday
-11/18/19 ,2:00 PM  ,   192 ,Monday
-11/18/19 ,3:00 PM  ,   257 ,Monday
-11/18/19 ,4:00 PM  ,   278 ,Monday
-11/18/19 ,5:00 PM  ,   305 ,Monday
-11/18/19 ,6:00 PM  ,   303 ,Monday
-11/18/19 ,7:00 PM  ,   277 ,Monday
-11/18/19 ,8:00 PM  ,   276 ,Monday
-11/18/19 ,9:00 PM  ,   198 ,Monday
-11/18/19 ,10:00 PM ,    39 ,Monday
-11/19/19 ,5:00 AM  ,     3 ,Tuesday
-11/19/19 ,6:00 AM  ,   128 ,Tuesday
-11/19/19 ,7:00 AM  ,   120 ,Tuesday
-11/19/19 ,8:00 AM  ,   142 ,Tuesday
-11/19/19 ,9:00 AM  ,   215 ,Tuesday
-11/19/19 ,10:00 AM ,   251 ,Tuesday
-11/19/19 ,11:00 AM ,   197 ,Tuesday
-11/19/19 ,12:00 PM ,   227 ,Tuesday
-11/19/19 ,1:00 PM  ,   247 ,Tuesday
-11/19/19 ,2:00 PM  ,   219 ,Tuesday
-11/19/19 ,3:00 PM  ,   276 ,Tuesday
-11/19/19 ,4:00 PM  ,   244 ,Tuesday
-11/19/19 ,5:00 PM  ,   345 ,Tuesday
-11/19/19 ,6:00 PM  ,   280 ,Tuesday
-11/19/19 ,7:00 PM  ,   225 ,Tuesday
-11/19/19 ,8:00 PM  ,   256 ,Tuesday
-11/19/19 ,9:00 PM  ,   174 ,Tuesday
-11/19/19 ,10:00 PM ,    47 ,Tuesday
-11/20/19 ,5:00 AM  ,     0 ,Wednesday
-11/20/19 ,6:00 AM  ,   141 ,Wednesday
-11/20/19 ,7:00 AM  ,   135 ,Wednesday
-11/20/19 ,8:00 AM  ,   156 ,Wednesday
-11/20/19 ,9:00 AM  ,   213 ,Wednesday
-11/20/19 ,10:00 AM ,   213 ,Wednesday
-11/20/19 ,11:00 AM ,   155 ,Wednesday
-11/20/19 ,12:00 PM ,   178 ,Wednesday
-11/20/19 ,1:00 PM  ,   180 ,Wednesday
-11/20/19 ,2:00 PM  ,   200 ,Wednesday
-11/20/19 ,3:00 PM  ,   199 ,Wednesday
-11/20/19 ,4:00 PM  ,   302 ,Wednesday
-11/20/19 ,5:00 PM  ,   295 ,Wednesday
-11/20/19 ,6:00 PM  ,   219 ,Wednesday
-11/20/19 ,7:00 PM  ,   220 ,Wednesday
-11/20/19 ,8:00 PM  ,   204 ,Wednesday
-11/20/19 ,9:00 PM  ,   159 ,Wednesday
-11/20/19 ,10:00 PM ,    43 ,Wednesday
-11/21/19 ,5:00 AM  ,     0 ,Thursday
-11/21/19 ,6:00 AM  ,   101 ,Thursday
-11/21/19 ,7:00 AM  ,   100 ,Thursday
-11/21/19 ,8:00 AM  ,   123 ,Thursday
-11/21/19 ,9:00 AM  ,   210 ,Thursday
-11/21/19 ,10:00 AM ,   225 ,Thursday
-11/21/19 ,11:00 AM ,   166 ,Thursday
-11/21/19 ,12:00 PM ,   211 ,Thursday
-11/21/19 ,1:00 PM  ,   228 ,Thursday
-11/21/19 ,2:00 PM  ,   217 ,Thursday
-11/21/19 ,3:00 PM  ,   267 ,Thursday
-11/21/19 ,4:00 PM  ,   265 ,Thursday
-11/21/19 ,5:00 PM  ,   328 ,Thursday
-11/21/19 ,6:00 PM  ,   239 ,Thursday
-11/21/19 ,7:00 PM  ,   173 ,Thursday
-11/21/19 ,8:00 PM  ,   182 ,Thursday
-11/21/19 ,9:00 PM  ,   130 ,Thursday
-11/21/19 ,10:00 PM ,    22 ,Thursday
-11/22/19 ,5:00 AM  ,     3 ,Friday
-11/22/19 ,6:00 AM  ,   112 ,Friday
-11/22/19 ,7:00 AM  ,    83 ,Friday
-11/22/19 ,8:00 AM  ,   101 ,Friday
-11/22/19 ,9:00 AM  ,   135 ,Friday
-11/22/19 ,10:00 AM ,   164 ,Friday
-11/22/19 ,11:00 AM ,   183 ,Friday
-11/22/19 ,12:00 PM ,   201 ,Friday
-11/22/19 ,1:00 PM  ,   193 ,Friday
-11/22/19 ,2:00 PM  ,   291 ,Friday
-11/22/19 ,3:00 PM  ,   262 ,Friday
-11/22/19 ,4:00 PM  ,   258 ,Friday
-11/22/19 ,5:00 PM  ,   265 ,Friday
-11/22/19 ,6:00 PM  ,   158 ,Friday
-11/22/19 ,7:00 PM  ,   153 ,Friday
-11/22/19 ,8:00 PM  ,    65 ,Friday
-11/22/19 ,9:00 PM  ,     0 ,Friday
-11/22/19 ,10:00 PM ,     0 ,Friday
-11/23/19 ,5:00 AM  ,     0 ,Saturday
-11/23/19 ,6:00 AM  ,     0 ,Saturday
-11/23/19 ,7:00 AM  ,     0 ,Saturday
-11/23/19 ,8:00 AM  ,     1 ,Saturday
-11/23/19 ,9:00 AM  ,   209 ,Saturday
-11/23/19 ,10:00 AM ,   157 ,Saturday
-11/23/19 ,11:00 AM ,   144 ,Saturday
-11/23/19 ,12:00 PM ,   153 ,Saturday
-11/23/19 ,1:00 PM  ,   137 ,Saturday
-11/23/19 ,2:00 PM  ,   146 ,Saturday
-11/23/19 ,3:00 PM  ,   159 ,Saturday
-11/23/19 ,4:00 PM  ,   197 ,Saturday
-11/23/19 ,5:00 PM  ,   162 ,Saturday
-11/23/19 ,6:00 PM  ,   144 ,Saturday
-11/23/19 ,7:00 PM  ,   127 ,Saturday
-11/23/19 ,8:00 PM  ,    61 ,Saturday
-11/23/19 ,9:00 PM  ,     0 ,Saturday
-11/23/19 ,10:00 PM ,     0 ,Saturday
-11/24/19 ,5:00 AM  ,     0 ,Sunday
-11/24/19 ,6:00 AM  ,     0 ,Sunday
-11/24/19 ,7:00 AM  ,     0 ,Sunday
-11/24/19 ,8:00 AM  ,     1 ,Sunday
-11/24/19 ,9:00 AM  ,   160 ,Sunday
-11/24/19 ,10:00 AM ,   131 ,Sunday
-11/24/19 ,11:00 AM ,   123 ,Sunday
-11/24/19 ,12:00 PM ,   105 ,Sunday
-11/24/19 ,1:00 PM  ,   111 ,Sunday
-11/24/19 ,2:00 PM  ,   140 ,Sunday
-11/24/19 ,3:00 PM  ,   149 ,Sunday
-11/24/19 ,4:00 PM  ,   190 ,Sunday
-11/24/19 ,5:00 PM  ,   180 ,Sunday
-11/24/19 ,6:00 PM  ,   134 ,Sunday
-11/24/19 ,7:00 PM  ,   121 ,Sunday
-11/24/19 ,8:00 PM  ,   119 ,Sunday
-11/24/19 ,9:00 PM  ,    30 ,Sunday
-11/24/19 ,10:00 PM ,     0 ,Sunday
-11/25/19 ,5:00 AM  ,     4 ,Monday
-11/25/19 ,6:00 AM  ,   113 ,Monday
-11/25/19 ,7:00 AM  ,   100 ,Monday
-11/25/19 ,8:00 AM  ,    99 ,Monday
-11/25/19 ,9:00 AM  ,   200 ,Monday
-11/25/19 ,10:00 AM ,   193 ,Monday
-11/25/19 ,11:00 AM ,   168 ,Monday
-11/25/19 ,12:00 PM ,   234 ,Monday
-11/25/19 ,1:00 PM  ,   169 ,Monday
-11/25/19 ,2:00 PM  ,   187 ,Monday
-11/25/19 ,3:00 PM  ,   220 ,Monday
-11/25/19 ,4:00 PM  ,   231 ,Monday
-11/25/19 ,5:00 PM  ,   263 ,Monday
-11/25/19 ,6:00 PM  ,   241 ,Monday
-11/25/19 ,7:00 PM  ,   205 ,Monday
-11/25/19 ,8:00 PM  ,   195 ,Monday
-11/25/19 ,9:00 PM  ,   113 ,Monday
-11/25/19 ,10:00 PM ,    18 ,Monday
-11/26/19 ,5:00 AM  ,     0 ,Tuesday
-11/26/19 ,6:00 AM  ,    77 ,Tuesday
-11/26/19 ,7:00 AM  ,    73 ,Tuesday
-11/26/19 ,8:00 AM  ,    91 ,Tuesday
-11/26/19 ,9:00 AM  ,   154 ,Tuesday
-11/26/19 ,10:00 AM ,   187 ,Tuesday
-11/26/19 ,11:00 AM ,   157 ,Tuesday
-11/26/19 ,12:00 PM ,   124 ,Tuesday
-11/26/19 ,1:00 PM  ,   143 ,Tuesday
-11/26/19 ,2:00 PM  ,   143 ,Tuesday
-11/26/19 ,3:00 PM  ,   147 ,Tuesday
-11/26/19 ,4:00 PM  ,   156 ,Tuesday
-11/26/19 ,5:00 PM  ,   165 ,Tuesday
-11/26/19 ,6:00 PM  ,   121 ,Tuesday
-11/26/19 ,7:00 PM  ,    99 ,Tuesday
-11/26/19 ,8:00 PM  ,    54 ,Tuesday
-11/26/19 ,9:00 PM  ,    35 ,Tuesday
-11/26/19 ,10:00 PM ,     5 ,Tuesday
-11/27/19 ,5:00 AM  ,     0 ,Wednesday
-11/27/19 ,6:00 AM  ,    28 ,Wednesday
-11/27/19 ,7:00 AM  ,    39 ,Wednesday
-11/27/19 ,8:00 AM  ,    36 ,Wednesday
-11/27/19 ,9:00 AM  ,    46 ,Wednesday
-11/27/19 ,10:00 AM ,    56 ,Wednesday
-11/27/19 ,11:00 AM ,    74 ,Wednesday
-11/27/19 ,12:00 PM ,    91 ,Wednesday
-11/27/19 ,1:00 PM  ,    74 ,Wednesday
-11/27/19 ,2:00 PM  ,    61 ,Wednesday
-11/27/19 ,3:00 PM  ,     0 ,Wednesday
-11/27/19 ,4:00 PM  ,     0 ,Wednesday
-11/27/19 ,5:00 PM  ,     0 ,Wednesday
-11/27/19 ,6:00 PM  ,     0 ,Wednesday
-11/27/19 ,7:00 PM  ,     0 ,Wednesday
-11/27/19 ,8:00 PM  ,     0 ,Wednesday
-11/27/19 ,9:00 PM  ,     0 ,Wednesday
-11/27/19 ,10:00 PM ,     0 ,Wednesday
-11/28/19 ,5:00 AM  ,     0 ,Thursday
-11/28/19 ,6:00 AM  ,     0 ,Thursday
-11/28/19 ,7:00 AM  ,     0 ,Thursday
-11/28/19 ,8:00 AM  ,     0 ,Thursday
-11/28/19 ,9:00 AM  ,     0 ,Thursday
-11/28/19 ,10:00 AM ,     0 ,Thursday
-11/28/19 ,11:00 AM ,     0 ,Thursday
-11/28/19 ,12:00 PM ,     0 ,Thursday
-11/28/19 ,1:00 PM  ,     0 ,Thursday
-11/28/19 ,2:00 PM  ,     0 ,Thursday
-11/28/19 ,3:00 PM  ,     0 ,Thursday
-11/28/19 ,4:00 PM  ,     0 ,Thursday
-11/28/19 ,5:00 PM  ,     0 ,Thursday
-11/28/19 ,6:00 PM  ,     0 ,Thursday
-11/28/19 ,7:00 PM  ,     0 ,Thursday
-11/28/19 ,8:00 PM  ,     0 ,Thursday
-11/28/19 ,9:00 PM  ,     0 ,Thursday
-11/28/19 ,10:00 PM ,     0 ,Thursday
-11/29/19 ,5:00 AM  ,     0 ,Friday
-11/29/19 ,6:00 AM  ,     0 ,Friday
-11/29/19 ,7:00 AM  ,     0 ,Friday
-11/29/19 ,8:00 AM  ,     0 ,Friday
-11/29/19 ,9:00 AM  ,     0 ,Friday
-11/29/19 ,10:00 AM ,     0 ,Friday
-11/29/19 ,11:00 AM ,     0 ,Friday
-11/29/19 ,12:00 PM ,     0 ,Friday
-11/29/19 ,1:00 PM  ,     0 ,Friday
-11/29/19 ,2:00 PM  ,     0 ,Friday
-11/29/19 ,3:00 PM  ,     0 ,Friday
-11/29/19 ,4:00 PM  ,     0 ,Friday
-11/29/19 ,5:00 PM  ,     0 ,Friday
-11/29/19 ,6:00 PM  ,     0 ,Friday
-11/29/19 ,7:00 PM  ,     0 ,Friday
-11/29/19 ,8:00 PM  ,     0 ,Friday
-11/29/19 ,9:00 PM  ,     0 ,Friday
-11/30/19 ,10:00 PM ,     0 ,Friday
-11/30/19 ,5:00 AM  ,     0 ,Saturday
-11/30/19 ,6:00 AM  ,     0 ,Saturday
-11/30/19 ,7:00 AM  ,     0 ,Saturday
-11/30/19 ,8:00 AM  ,     0 ,Saturday
-11/30/19 ,9:00 AM  ,     0 ,Saturday
-11/30/19 ,10:00 AM ,     0 ,Saturday
-11/30/19 ,11:00 AM ,     0 ,Saturday
-11/30/19 ,12:00 PM ,     0 ,Saturday
-11/30/19 ,1:00 PM  ,     0 ,Saturday
-11/30/19 ,2:00 PM  ,     0 ,Saturday
-11/30/19 ,3:00 PM  ,     0 ,Saturday
-11/30/19 ,4:00 PM  ,     0 ,Saturday
-11/30/19 ,5:00 PM  ,     0 ,Saturday
-11/30/19 ,6:00 PM  ,     0 ,Saturday
-11/30/19 ,7:00 PM  ,     0 ,Saturday
-11/30/19 ,8:00 PM  ,     0 ,Saturday
-11/30/19 ,9:00 PM  ,     0 ,Saturday
-11/30/19 ,10:00 PM ,     0 ,Saturday
-12/1/19  ,5:00 AM  ,     0 ,Sunday
-12/1/19  ,6:00 AM  ,     0 ,Sunday
-12/1/19  ,7:00 AM  ,     0 ,Sunday
-12/1/19  ,8:00 AM  ,     0 ,Sunday
-12/1/19  ,9:00 AM  ,     0 ,Sunday
-12/1/19  ,10:00 AM ,     0 ,Sunday
-12/1/19  ,11:00 AM ,     0 ,Sunday
-12/1/19  ,12:00 PM ,     0 ,Sunday
-12/1/19  ,1:00 PM  ,     0 ,Sunday
-12/1/19  ,2:00 PM  ,     0 ,Sunday
-12/1/19  ,3:00 PM  ,     0 ,Sunday
-12/1/19  ,4:00 PM  ,     0 ,Sunday
-12/1/19  ,5:00 PM  ,     0 ,Sunday
-12/1/19  ,6:00 PM  ,     0 ,Sunday
-12/1/19  ,7:00 PM  ,     0 ,Sunday
-12/1/19  ,8:00 PM  ,     0 ,Sunday
-12/1/19  ,9:00 PM  ,     0 ,Sunday
-12/1/19  ,10:00 PM ,     0 ,Sunday
-12/2/19  ,5:00 AM  ,     0 ,Monday
-12/2/19  ,6:00 AM  ,   116 ,Monday
-12/2/19  ,7:00 AM  ,   115 ,Monday
-12/2/19  ,8:00 AM  ,   116 ,Monday
-12/2/19  ,9:00 AM  ,   216 ,Monday
-12/2/19  ,10:00 AM ,   221 ,Monday
-12/2/19  ,11:00 AM ,   165 ,Monday
-12/2/19  ,12:00 PM ,   225 ,Monday
-12/2/19  ,1:00 PM  ,   162 ,Monday
-12/2/19  ,2:00 PM  ,   175 ,Monday
-12/2/19  ,3:00 PM  ,   222 ,Monday
-12/2/19  ,4:00 PM  ,   264 ,Monday
-12/2/19  ,5:00 PM  ,   323 ,Monday
-12/2/19  ,6:00 PM  ,   247 ,Monday
-12/2/19  ,7:00 PM  ,   194 ,Monday
-12/2/19  ,8:00 PM  ,   225 ,Monday
-12/2/19  ,9:00 PM  ,   165 ,Monday
-12/2/19  ,10:00 PM ,    23 ,Monday
-12/3/19  ,5:00 AM  ,    11 ,Tuesday
-12/3/19  ,6:00 AM  ,    92 ,Tuesday
-12/3/19  ,7:00 AM  ,   115 ,Tuesday
-12/3/19  ,8:00 AM  ,   132 ,Tuesday
-12/3/19  ,9:00 AM  ,   200 ,Tuesday
-12/3/19  ,10:00 AM ,   210 ,Tuesday
-12/3/19  ,11:00 AM ,   153 ,Tuesday
-12/3/19  ,12:00 PM ,   215 ,Tuesday
-12/3/19  ,1:00 PM  ,   201 ,Tuesday
-12/3/19  ,2:00 PM  ,   183 ,Tuesday
-12/3/19  ,3:00 PM  ,   209 ,Tuesday
-12/3/19  ,4:00 PM  ,   187 ,Tuesday
-12/3/19  ,5:00 PM  ,   324 ,Tuesday
-12/3/19  ,6:00 PM  ,   203 ,Tuesday
-12/3/19  ,7:00 PM  ,   180 ,Tuesday
-12/3/19  ,8:00 PM  ,   177 ,Tuesday
-12/3/19  ,9:00 PM  ,   109 ,Tuesday
-12/3/19  ,10:00 PM ,    23 ,Tuesday
-12/4/19  ,5:00 AM  ,     1 ,Wednesday
-12/4/19  ,6:00 AM  ,    94 ,Wednesday
-12/4/19  ,7:00 AM  ,    87 ,Wednesday
-12/4/19  ,8:00 AM  ,    86 ,Wednesday
-12/4/19  ,9:00 AM  ,   115 ,Wednesday
-12/4/19  ,10:00 AM ,   221 ,Wednesday
-12/4/19  ,11:00 AM ,   134 ,Wednesday
-12/4/19  ,12:00 PM ,   199 ,Wednesday
-12/4/19  ,1:00 PM  ,   139 ,Wednesday
-12/4/19  ,2:00 PM  ,   155 ,Wednesday
-12/4/19  ,3:00 PM  ,   166 ,Wednesday
-12/4/19  ,4:00 PM  ,   248 ,Wednesday
-12/4/19  ,5:00 PM  ,   268 ,Wednesday
-12/4/19  ,6:00 PM  ,   186 ,Wednesday
-12/4/19  ,7:00 PM  ,   191 ,Wednesday
-12/4/19  ,8:00 PM  ,   172 ,Wednesday
-12/4/19  ,9:00 PM  ,   164 ,Wednesday
-12/4/19  ,10:00 PM ,    26 ,Wednesday
-12/5/19  ,5:00 AM  ,     0 ,Thursday
-12/5/19  ,6:00 AM  ,    76 ,Thursday
-12/5/19  ,7:00 AM  ,    78 ,Thursday
-12/5/19  ,8:00 AM  ,   111 ,Thursday
-12/5/19  ,9:00 AM  ,   178 ,Thursday
-12/5/19  ,10:00 AM ,   210 ,Thursday
-12/5/19  ,11:00 AM ,   155 ,Thursday
-12/5/19  ,12:00 PM ,   194 ,Thursday
-12/5/19  ,1:00 PM  ,   221 ,Thursday
-12/5/19  ,2:00 PM  ,   175 ,Thursday
-12/5/19  ,3:00 PM  ,   219 ,Thursday
-12/5/19  ,4:00 PM  ,   181 ,Thursday
-12/5/19  ,5:00 PM  ,   211 ,Thursday
-12/5/19  ,6:00 PM  ,   189 ,Thursday
-12/5/19  ,7:00 PM  ,   178 ,Thursday
-12/5/19  ,8:00 PM  ,   138 ,Thursday
-12/5/19  ,9:00 PM  ,    97 ,Thursday
-12/5/19  ,10:00 PM ,    17 ,Thursday
-12/6/19  ,5:00 AM  ,     0 ,Friday
-12/6/19  ,6:00 AM  ,    96 ,Friday
-12/6/19  ,7:00 AM  ,    84 ,Friday
-12/6/19  ,8:00 AM  ,    88 ,Friday
-12/6/19  ,9:00 AM  ,   130 ,Friday
-12/6/19  ,10:00 AM ,   121 ,Friday
-12/6/19  ,11:00 AM ,   146 ,Friday
-12/6/19  ,12:00 PM ,   138 ,Friday
-12/6/19  ,1:00 PM  ,   154 ,Friday
-12/6/19  ,2:00 PM  ,   172 ,Friday
-12/6/19  ,3:00 PM  ,   147 ,Friday
-12/6/19  ,4:00 PM  ,   183 ,Friday
-12/6/19  ,5:00 PM  ,   215 ,Friday
-12/6/19  ,6:00 PM  ,   135 ,Friday
-12/6/19  ,7:00 PM  ,   122 ,Friday
-12/6/19  ,8:00 PM  ,    42 ,Friday
-12/6/19  ,9:00 PM  ,     0 ,Friday
-12/6/19  ,10:00 PM ,     0 ,Friday
-12/7/19  ,5:00 AM  ,     0 ,Saturday
-12/7/19  ,6:00 AM  ,     0 ,Saturday
-12/7/19  ,7:00 AM  ,     0 ,Saturday
-12/7/19  ,8:00 AM  ,    14 ,Saturday
-12/7/19  ,9:00 AM  ,   141 ,Saturday
-12/7/19  ,10:00 AM ,   107 ,Saturday
-12/7/19  ,11:00 AM ,   125 ,Saturday
-12/7/19  ,12:00 PM ,   120 ,Saturday
-12/7/19  ,1:00 PM  ,   124 ,Saturday
-12/7/19  ,2:00 PM  ,   118 ,Saturday
-12/7/19  ,3:00 PM  ,   147 ,Saturday
-12/7/19  ,4:00 PM  ,   119 ,Saturday
-12/7/19  ,5:00 PM  ,   144 ,Saturday
-12/7/19  ,6:00 PM  ,    94 ,Saturday
-12/7/19  ,7:00 PM  ,   168 ,Saturday
-12/7/19  ,8:00 PM  ,    43 ,Saturday
-12/7/19  ,9:00 PM  ,     0 ,Saturday
-12/7/19  ,10:00 PM ,     0 ,Saturday
-12/8/19  ,5:00 AM  ,     0 ,Sunday
-12/8/19  ,6:00 AM  ,     0 ,Sunday
-12/8/19  ,7:00 AM  ,     0 ,Sunday
-12/8/19  ,8:00 AM  ,    16 ,Sunday
-12/8/19  ,9:00 AM  ,   116 ,Sunday
-12/8/19  ,10:00 AM ,   128 ,Sunday
-12/8/19  ,11:00 AM ,   108 ,Sunday
-12/8/19  ,12:00 PM ,   113 ,Sunday
-12/8/19  ,1:00 PM  ,    91 ,Sunday
-12/8/19  ,2:00 PM  ,   105 ,Sunday
-12/8/19  ,3:00 PM  ,   107 ,Sunday
-12/8/19  ,4:00 PM  ,    95 ,Sunday
-12/8/19  ,5:00 PM  ,   113 ,Sunday
-12/8/19  ,6:00 PM  ,   111 ,Sunday
-12/8/19  ,7:00 PM  ,    93 ,Sunday
-12/8/19  ,8:00 PM  ,    73 ,Sunday
-12/8/19  ,9:00 PM  ,    27 ,Sunday
-12/8/19  ,10:00 PM ,     0 ,Sunday
-12/9/19  ,5:00 AM  ,     3 ,Monday
-12/9/19  ,6:00 AM  ,    71 ,Monday
-12/9/19  ,7:00 AM  ,    69 ,Monday
-12/9/19  ,8:00 AM  ,    81 ,Monday
-12/9/19  ,9:00 AM  ,    63 ,Monday
-12/9/19  ,10:00 AM ,   105 ,Monday
-12/9/19  ,11:00 AM ,   143 ,Monday
-12/9/19  ,12:00 PM ,   178 ,Monday
-12/9/19  ,1:00 PM  ,   111 ,Monday
-12/9/19  ,2:00 PM  ,   119 ,Monday
-12/9/19  ,3:00 PM  ,   128 ,Monday
-12/9/19  ,4:00 PM  ,   217 ,Monday
-12/9/19  ,5:00 PM  ,   247 ,Monday
-12/9/19  ,6:00 PM  ,   142 ,Monday
-12/9/19  ,7:00 PM  ,   147 ,Monday
-12/9/19  ,8:00 PM  ,    95 ,Monday
-12/9/19  ,9:00 PM  ,    82 ,Monday
-12/9/19  ,10:00 PM ,    20 ,Monday
-12/10/19 ,5:00 AM  ,     6 ,Tuesday
-12/10/19 ,6:00 AM  ,    71 ,Tuesday
-12/10/19 ,7:00 AM  ,    59 ,Tuesday
-12/10/19 ,8:00 AM  ,   122 ,Tuesday
-12/10/19 ,9:00 AM  ,   112 ,Tuesday
-12/10/19 ,10:00 AM ,   124 ,Tuesday
-12/10/19 ,11:00 AM ,   113 ,Tuesday
-12/10/19 ,12:00 PM ,   156 ,Tuesday
-12/10/19 ,1:00 PM  ,   109 ,Tuesday
-12/10/19 ,2:00 PM  ,   127 ,Tuesday
-12/10/19 ,3:00 PM  ,   133 ,Tuesday
-12/10/19 ,4:00 PM  ,   137 ,Tuesday
-12/10/19 ,5:00 PM  ,   204 ,Tuesday
-12/10/19 ,6:00 PM  ,   152 ,Tuesday
-12/10/19 ,7:00 PM  ,   135 ,Tuesday
-12/10/19 ,8:00 PM  ,    82 ,Tuesday
-12/10/19 ,9:00 PM  ,    74 ,Tuesday
-12/10/19 ,10:00 PM ,    21 ,Tuesday
-12/11/19 ,5:00 AM  ,     0 ,Wednesday
-12/11/19 ,6:00 AM  ,    72 ,Wednesday
-12/11/19 ,7:00 AM  ,    61 ,Wednesday
-12/11/19 ,8:00 AM  ,    55 ,Wednesday
-12/11/19 ,9:00 AM  ,    82 ,Wednesday
-12/11/19 ,10:00 AM ,   111 ,Wednesday
-12/11/19 ,11:00 AM ,   111 ,Wednesday
-12/11/19 ,12:00 PM ,   130 ,Wednesday
-12/11/19 ,1:00 PM  ,    98 ,Wednesday
-12/11/19 ,2:00 PM  ,   103 ,Wednesday
-12/11/19 ,3:00 PM  ,   121 ,Wednesday
-12/11/19 ,4:00 PM  ,   139 ,Wednesday
-12/11/19 ,5:00 PM  ,   189 ,Wednesday
-12/11/19 ,6:00 PM  ,   138 ,Wednesday
-12/11/19 ,7:00 PM  ,   112 ,Wednesday
-12/11/19 ,8:00 PM  ,    86 ,Wednesday
-12/11/19 ,9:00 PM  ,    80 ,Wednesday
-12/11/19 ,10:00 PM ,    21 ,Wednesday
-12/12/19 ,5:00 AM  ,     7 ,Thursday
-12/12/19 ,6:00 AM  ,    64 ,Thursday
-12/12/19 ,7:00 AM  ,    53 ,Thursday
-12/12/19 ,8:00 AM  ,    58 ,Thursday
-12/12/19 ,9:00 AM  ,    61 ,Thursday
-12/12/19 ,10:00 AM ,    75 ,Thursday
-12/12/19 ,11:00 AM ,   101 ,Thursday
-12/12/19 ,12:00 PM ,   126 ,Thursday
-12/12/19 ,1:00 PM  ,   107 ,Thursday
-12/12/19 ,2:00 PM  ,   111 ,Thursday
-12/12/19 ,3:00 PM  ,   144 ,Thursday
-12/12/19 ,4:00 PM  ,   156 ,Thursday
-12/12/19 ,5:00 PM  ,   156 ,Thursday
-12/12/19 ,6:00 PM  ,   112 ,Thursday
-12/12/19 ,7:00 PM  ,   112 ,Thursday
-12/12/19 ,8:00 PM  ,    74 ,Thursday
-12/12/19 ,9:00 PM  ,    50 ,Thursday
-12/12/19 ,10:00 PM ,    12 ,Thursday
-12/13/19 ,5:00 AM  ,     0 ,Friday
-12/13/19 ,6:00 AM  ,    79 ,Friday
-12/13/19 ,7:00 AM  ,    46 ,Friday
-12/13/19 ,8:00 AM  ,    38 ,Friday
-12/13/19 ,9:00 AM  ,    55 ,Friday
-12/13/19 ,10:00 AM ,    69 ,Friday
-12/13/19 ,11:00 AM ,    72 ,Friday
-12/13/19 ,12:00 PM ,    99 ,Friday
-12/13/19 ,1:00 PM  ,    84 ,Friday
-12/13/19 ,2:00 PM  ,   107 ,Friday
-12/13/19 ,3:00 PM  ,   119 ,Friday
-12/13/19 ,4:00 PM  ,   116 ,Friday
-12/13/19 ,5:00 PM  ,   105 ,Friday
-12/13/19 ,6:00 PM  ,    90 ,Friday
-12/13/19 ,7:00 PM  ,    82 ,Friday
-12/13/19 ,8:00 PM  ,    19 ,Friday
-12/13/19 ,9:00 PM  ,     0 ,Friday
-12/14/19 ,10:00 PM ,     0 ,Friday
-12/14/19 ,5:00 AM  ,     0 ,Saturday
-12/14/19 ,6:00 AM  ,     0 ,Saturday
-12/14/19 ,7:00 AM  ,     0 ,Saturday
-12/14/19 ,8:00 AM  ,     0 ,Saturday
-12/14/19 ,9:00 AM  ,     0 ,Saturday
-12/14/19 ,10:00 AM ,    10 ,Saturday
-12/14/19 ,11:00 AM ,    98 ,Saturday
-12/14/19 ,12:00 PM ,    61 ,Saturday
-12/14/19 ,1:00 PM  ,    47 ,Saturday
-12/14/19 ,2:00 PM  ,    77 ,Saturday
-12/14/19 ,3:00 PM  ,    73 ,Saturday
-12/14/19 ,4:00 PM  ,    61 ,Saturday
-12/14/19 ,5:00 PM  ,    87 ,Saturday
-12/14/19 ,6:00 PM  ,    25 ,Saturday
-12/14/19 ,7:00 PM  ,     0 ,Saturday
-12/14/19 ,8:00 PM  ,     0 ,Saturday
-12/14/19 ,9:00 PM  ,     0 ,Saturday
-12/14/19 ,10:00 PM ,     0 ,Saturday
+9/29/2019,5:00 AM,0,Sunday
+9/29/2019,6:00 AM,0,Sunday
+9/29/2019,7:00 AM,0,Sunday
+9/29/2019,8:00 AM,4,Sunday
+9/29/2019,9:00 AM,225,Sunday
+9/29/2019,10:00 AM,149,Sunday
+9/29/2019,11:00 AM,135,Sunday
+9/29/2019,12:00 PM,131,Sunday
+9/29/2019,1:00 PM,209,Sunday
+9/29/2019,2:00 PM,194,Sunday
+9/29/2019,3:00 PM,194,Sunday
+9/29/2019,4:00 PM,301,Sunday
+9/29/2019,5:00 PM,207,Sunday
+9/29/2019,6:00 PM,186,Sunday
+9/29/2019,7:00 PM,204,Sunday
+9/29/2019,8:00 PM,156,Sunday
+9/29/2019,9:00 PM,38,Sunday
+9/29/2019,10:00 PM,0,Sunday
+9/30/2019,5:00 AM,7,Monday
+9/30/2019,6:00 AM,222,Monday
+9/30/2019,7:00 AM,177,Monday
+9/30/2019,8:00 AM,214,Monday
+9/30/2019,9:00 AM,364,Monday
+9/30/2019,10:00 AM,323,Monday
+9/30/2019,11:00 AM,275,Monday
+9/30/2019,12:00 PM,311,Monday
+9/30/2019,1:00 PM,220,Monday
+9/30/2019,2:00 PM,295,Monday
+9/30/2019,3:00 PM,304,Monday
+9/30/2019,4:00 PM,331,Monday
+9/30/2019,5:00 PM,438,Monday
+9/30/2019,6:00 PM,409,Monday
+9/30/2019,7:00 PM,339,Monday
+9/30/2019,8:00 PM,286,Monday
+9/30/2019,9:00 PM,175,Monday
+9/30/2019,10:00 PM,38,Monday
+10/1/2019,5:00 AM,1,Tuesday
+10/1/2019,6:00 AM,154,Tuesday
+10/1/2019,7:00 AM,216,Tuesday
+10/1/2019,8:00 AM,182,Tuesday
+10/1/2019,9:00 AM,313,Tuesday
+10/1/2019,10:00 AM,318,Tuesday
+10/1/2019,11:00 AM,226,Tuesday
+10/1/2019,12:00 PM,287,Tuesday
+10/1/2019,1:00 PM,296,Tuesday
+10/1/2019,2:00 PM,233,Tuesday
+10/1/2019,3:00 PM,300,Tuesday
+10/1/2019,4:00 PM,319,Tuesday
+10/1/2019,5:00 PM,324,Tuesday
+10/1/2019,6:00 PM,344,Tuesday
+10/1/2019,7:00 PM,310,Tuesday
+10/1/2019,8:00 PM,279,Tuesday
+10/1/2019,9:00 PM,177,Tuesday
+10/1/2019,10:00 PM,21,Tuesday
+10/2/2019,5:00 AM,0,Wednesday
+10/2/2019,6:00 AM,194,Wednesday
+10/2/2019,7:00 AM,200,Wednesday
+10/2/2019,8:00 AM,204,Wednesday
+10/2/2019,9:00 AM,298,Wednesday
+10/2/2019,10:00 AM,348,Wednesday
+10/2/2019,11:00 AM,258,Wednesday
+10/2/2019,12:00 PM,204,Wednesday
+10/2/2019,1:00 PM,176,Wednesday
+10/2/2019,2:00 PM,234,Wednesday
+10/2/2019,3:00 PM,266,Wednesday
+10/2/2019,4:00 PM,280,Wednesday
+10/2/2019,5:00 PM,399,Wednesday
+10/2/2019,6:00 PM,399,Wednesday
+10/2/2019,7:00 PM,282,Wednesday
+10/2/2019,8:00 PM,305,Wednesday
+10/2/2019,9:00 PM,199,Wednesday
+10/2/2019,10:00 PM,32,Wednesday
+10/3/2019,5:00 AM,0,Thursday
+10/3/2019,6:00 AM,120,Thursday
+10/3/2019,7:00 AM,144,Thursday
+10/3/2019,8:00 AM,149,Thursday
+10/3/2019,9:00 AM,323,Thursday
+10/3/2019,10:00 AM,307,Thursday
+10/3/2019,11:00 AM,221,Thursday
+10/3/2019,12:00 PM,284,Thursday
+10/3/2019,1:00 PM,283,Thursday
+10/3/2019,2:00 PM,210,Thursday
+10/3/2019,3:00 PM,301,Thursday
+10/3/2019,4:00 PM,262,Thursday
+10/3/2019,5:00 PM,275,Thursday
+10/3/2019,6:00 PM,272,Thursday
+10/3/2019,7:00 PM,254,Thursday
+10/3/2019,8:00 PM,247,Thursday
+10/3/2019,9:00 PM,165,Thursday
+10/3/2019,10:00 PM,31,Thursday
+10/4/2019,5:00 AM,7,Friday
+10/4/2019,6:00 AM,143,Friday
+10/4/2019,7:00 AM,95,Friday
+10/4/2019,8:00 AM,133,Friday
+10/4/2019,9:00 AM,168,Friday
+10/4/2019,10:00 AM,177,Friday
+10/4/2019,11:00 AM,207,Friday
+10/4/2019,12:00 PM,217,Friday
+10/4/2019,1:00 PM,204,Friday
+10/4/2019,2:00 PM,266,Friday
+10/4/2019,3:00 PM,327,Friday
+10/4/2019,4:00 PM,329,Friday
+10/4/2019,5:00 PM,283,Friday
+10/4/2019,6:00 PM,186,Friday
+10/4/2019,7:00 PM,149,Friday
+10/4/2019,8:00 PM,61,Friday
+10/4/2019,9:00 PM,0,Friday
+10/4/2019,10:00 PM,0,Friday
+10/5/2019,5:00 AM,0,Saturday
+10/5/2019,6:00 AM,0,Saturday
+10/5/2019,7:00 AM,0,Saturday
+10/5/2019,8:00 AM,30,Saturday
+10/5/2019,9:00 AM,183,Saturday
+10/5/2019,10:00 AM,153,Saturday
+10/5/2019,11:00 AM,157,Saturday
+10/5/2019,12:00 PM,174,Saturday
+10/5/2019,1:00 PM,205,Saturday
+10/5/2019,2:00 PM,160,Saturday
+10/5/2019,3:00 PM,215,Saturday
+10/5/2019,4:00 PM,175,Saturday
+10/5/2019,5:00 PM,187,Saturday
+10/5/2019,6:00 PM,133,Saturday
+10/5/2019,7:00 PM,132,Saturday
+10/5/2019,8:00 PM,38,Saturday
+10/5/2019,9:00 PM,0,Saturday
+10/5/2019,10:00 PM,0,Saturday
+10/6/2019,5:00 AM,0,Sunday
+10/6/2019,6:00 AM,0,Sunday
+10/6/2019,7:00 AM,0,Sunday
+10/6/2019,8:00 AM,0,Sunday
+10/6/2019,9:00 AM,180,Sunday
+10/6/2019,10:00 AM,131,Sunday
+10/6/2019,11:00 AM,138,Sunday
+10/6/2019,12:00 PM,132,Sunday
+10/6/2019,1:00 PM,112,Sunday
+10/6/2019,2:00 PM,130,Sunday
+10/6/2019,3:00 PM,157,Sunday
+10/6/2019,4:00 PM,191,Sunday
+10/6/2019,5:00 PM,181,Sunday
+10/6/2019,6:00 PM,187,Sunday
+10/6/2019,7:00 PM,167,Sunday
+10/6/2019,8:00 PM,146,Sunday
+10/6/2019,9:00 PM,26,Sunday
+10/6/2019,10:00 PM,0,Sunday
+10/7/2019,5:00 AM,0,Monday
+10/7/2019,6:00 AM,200,Monday
+10/7/2019,7:00 AM,158,Monday
+10/7/2019,8:00 AM,185,Monday
+10/7/2019,9:00 AM,270,Monday
+10/7/2019,10:00 AM,293,Monday
+10/7/2019,11:00 AM,193,Monday
+10/7/2019,12:00 PM,278,Monday
+10/7/2019,1:00 PM,179,Monday
+10/7/2019,2:00 PM,216,Monday
+10/7/2019,3:00 PM,257,Monday
+10/7/2019,4:00 PM,286,Monday
+10/7/2019,5:00 PM,352,Monday
+10/7/2019,6:00 PM,352,Monday
+10/7/2019,7:00 PM,297,Monday
+10/7/2019,8:00 PM,321,Monday
+10/7/2019,9:00 PM,205,Monday
+10/7/2019,10:00 PM,47,Monday
+10/8/2019,5:00 AM,1,Tuesday
+10/8/2019,6:00 AM,164,Tuesday
+10/8/2019,7:00 AM,163,Tuesday
+10/8/2019,8:00 AM,179,Tuesday
+10/8/2019,9:00 AM,281,Tuesday
+10/8/2019,10:00 AM,326,Tuesday
+10/8/2019,11:00 AM,180,Tuesday
+10/8/2019,12:00 PM,293,Tuesday
+10/8/2019,1:00 PM,262,Tuesday
+10/8/2019,2:00 PM,209,Tuesday
+10/8/2019,3:00 PM,317,Tuesday
+10/8/2019,4:00 PM,300,Tuesday
+10/8/2019,5:00 PM,366,Tuesday
+10/8/2019,6:00 PM,295,Tuesday
+10/8/2019,7:00 PM,277,Tuesday
+10/8/2019,8:00 PM,269,Tuesday
+10/8/2019,9:00 PM,173,Tuesday
+10/8/2019,10:00 PM,31,Tuesday
+10/9/2019,5:00 AM,0,Wednesday
+10/9/2019,6:00 AM,178,Wednesday
+10/9/2019,7:00 AM,150,Wednesday
+10/9/2019,8:00 AM,193,Wednesday
+10/9/2019,9:00 AM,240,Wednesday
+10/9/2019,10:00 AM,272,Wednesday
+10/9/2019,11:00 AM,194,Wednesday
+10/9/2019,12:00 PM,211,Wednesday
+10/9/2019,1:00 PM,200,Wednesday
+10/9/2019,2:00 PM,183,Wednesday
+10/9/2019,3:00 PM,247,Wednesday
+10/9/2019,4:00 PM,289,Wednesday
+10/9/2019,5:00 PM,315,Wednesday
+10/9/2019,6:00 PM,306,Wednesday
+10/9/2019,7:00 PM,306,Wednesday
+10/9/2019,8:00 PM,298,Wednesday
+10/9/2019,9:00 PM,196,Wednesday
+10/9/2019,10:00 PM,33,Wednesday
+10/10/2019,5:00 AM,0,Thursday
+10/10/2019,6:00 AM,132,Thursday
+10/10/2019,7:00 AM,133,Thursday
+10/10/2019,8:00 AM,149,Thursday
+10/10/2019,9:00 AM,275,Thursday
+10/10/2019,10:00 AM,260,Thursday
+10/10/2019,11:00 AM,184,Thursday
+10/10/2019,12:00 PM,264,Thursday
+10/10/2019,1:00 PM,230,Thursday
+10/10/2019,2:00 PM,214,Thursday
+10/10/2019,3:00 PM,265,Thursday
+10/10/2019,4:00 PM,224,Thursday
+10/10/2019,5:00 PM,289,Thursday
+10/10/2019,6:00 PM,276,Thursday
+10/10/2019,7:00 PM,215,Thursday
+10/10/2019,8:00 PM,199,Thursday
+10/10/2019,9:00 PM,141,Thursday
+10/10/2019,10:00 PM,34,Thursday
+10/11/2019,5:00 AM,0,Friday
+10/11/2019,6:00 AM,128,Friday
+10/11/2019,7:00 AM,115,Friday
+10/11/2019,8:00 AM,99,Friday
+10/11/2019,9:00 AM,132,Friday
+10/11/2019,10:00 AM,154,Friday
+10/11/2019,11:00 AM,183,Friday
+10/11/2019,12:00 PM,209,Friday
+10/11/2019,1:00 PM,164,Friday
+10/11/2019,2:00 PM,256,Friday
+10/11/2019,3:00 PM,269,Friday
+10/11/2019,4:00 PM,294,Friday
+10/11/2019,5:00 PM,303,Friday
+10/11/2019,6:00 PM,199,Friday
+10/11/2019,7:00 PM,278,Friday
+10/11/2019,8:00 PM,75,Friday
+10/11/2019,9:00 PM,0,Friday
+10/11/2019,10:00 PM,0,Friday
+10/12/2019,5:00 AM,0,Saturday
+10/12/2019,6:00 AM,0,Saturday
+10/12/2019,7:00 AM,0,Saturday
+10/12/2019,8:00 AM,34,Saturday
+10/12/2019,9:00 AM,170,Saturday
+10/12/2019,10:00 AM,159,Saturday
+10/12/2019,11:00 AM,140,Saturday
+10/12/2019,12:00 PM,133,Saturday
+10/12/2019,1:00 PM,114,Saturday
+10/12/2019,2:00 PM,150,Saturday
+10/12/2019,3:00 PM,150,Saturday
+10/12/2019,4:00 PM,178,Saturday
+10/12/2019,5:00 PM,166,Saturday
+10/12/2019,6:00 PM,133,Saturday
+10/12/2019,7:00 PM,182,Saturday
+10/12/2019,8:00 PM,55,Saturday
+10/12/2019,9:00 PM,0,Saturday
+10/12/2019,10:00 PM,0,Saturday
+10/13/2019,5:00 AM,0,Sunday
+10/13/2019,6:00 AM,0,Sunday
+10/13/2019,7:00 AM,0,Sunday
+10/13/2019,8:00 AM,5,Sunday
+10/13/2019,9:00 AM,173,Sunday
+10/13/2019,10:00 AM,116,Sunday
+10/13/2019,11:00 AM,98,Sunday
+10/13/2019,12:00 PM,105,Sunday
+10/13/2019,1:00 PM,121,Sunday
+10/13/2019,2:00 PM,122,Sunday
+10/13/2019,3:00 PM,121,Sunday
+10/13/2019,4:00 PM,160,Sunday
+10/13/2019,5:00 PM,161,Sunday
+10/13/2019,6:00 PM,169,Sunday
+10/13/2019,7:00 PM,164,Sunday
+10/13/2019,8:00 PM,162,Sunday
+10/13/2019,9:00 PM,43,Sunday
+10/13/2019,10:00 PM,0,Sunday
+10/14/2019,5:00 AM,8,Monday
+10/14/2019,6:00 AM,148,Monday
+10/14/2019,7:00 AM,136,Monday
+10/14/2019,8:00 AM,184,Monday
+10/14/2019,9:00 AM,246,Monday
+10/14/2019,10:00 AM,279,Monday
+10/14/2019,11:00 AM,180,Monday
+10/14/2019,12:00 PM,291,Monday
+10/14/2019,1:00 PM,186,Monday
+10/14/2019,2:00 PM,208,Monday
+10/14/2019,3:00 PM,218,Monday
+10/14/2019,4:00 PM,270,Monday
+10/14/2019,5:00 PM,320,Monday
+10/14/2019,6:00 PM,315,Monday
+10/14/2019,7:00 PM,311,Monday
+10/14/2019,8:00 PM,340,Monday
+10/14/2019,9:00 PM,202,Monday
+10/14/2019,10:00 PM,30,Monday
+10/15/2019,5:00 AM,0,Tuesday
+10/15/2019,6:00 AM,136,Tuesday
+10/15/2019,7:00 AM,147,Tuesday
+10/15/2019,8:00 AM,170,Tuesday
+10/15/2019,9:00 AM,293,Tuesday
+10/15/2019,10:00 AM,281,Tuesday
+10/15/2019,11:00 AM,199,Tuesday
+10/15/2019,12:00 PM,261,Tuesday
+10/15/2019,1:00 PM,224,Tuesday
+10/15/2019,2:00 PM,204,Tuesday
+10/15/2019,3:00 PM,308,Tuesday
+10/15/2019,4:00 PM,225,Tuesday
+10/15/2019,5:00 PM,303,Tuesday
+10/15/2019,6:00 PM,265,Tuesday
+10/15/2019,7:00 PM,301,Tuesday
+10/15/2019,8:00 PM,241,Tuesday
+10/15/2019,9:00 PM,163,Tuesday
+10/15/2019,10:00 PM,32,Tuesday
+10/16/2019,5:00 AM,0,Wednesday
+10/16/2019,6:00 AM,173,Wednesday
+10/16/2019,7:00 AM,141,Wednesday
+10/16/2019,8:00 AM,164,Wednesday
+10/16/2019,9:00 AM,206,Wednesday
+10/16/2019,10:00 AM,255,Wednesday
+10/16/2019,11:00 AM,191,Wednesday
+10/16/2019,12:00 PM,178,Wednesday
+10/16/2019,1:00 PM,160,Wednesday
+10/16/2019,2:00 PM,182,Wednesday
+10/16/2019,3:00 PM,230,Wednesday
+10/16/2019,4:00 PM,260,Wednesday
+10/16/2019,5:00 PM,352,Wednesday
+10/16/2019,6:00 PM,270,Wednesday
+10/16/2019,7:00 PM,241,Wednesday
+10/16/2019,8:00 PM,209,Wednesday
+10/16/2019,9:00 PM,189,Wednesday
+10/16/2019,10:00 PM,40,Wednesday
+10/17/2019,5:00 AM,0,Thursday
+10/17/2019,6:00 AM,110,Thursday
+10/17/2019,7:00 AM,92,Thursday
+10/17/2019,8:00 AM,122,Thursday
+10/17/2019,9:00 AM,250,Thursday
+10/17/2019,10:00 AM,218,Thursday
+10/17/2019,11:00 AM,177,Thursday
+10/17/2019,12:00 PM,253,Thursday
+10/17/2019,1:00 PM,190,Thursday
+10/17/2019,2:00 PM,163,Thursday
+10/17/2019,3:00 PM,254,Thursday
+10/17/2019,4:00 PM,217,Thursday
+10/17/2019,5:00 PM,305,Thursday
+10/17/2019,6:00 PM,269,Thursday
+10/17/2019,7:00 PM,266,Thursday
+10/17/2019,8:00 PM,223,Thursday
+10/17/2019,9:00 PM,144,Thursday
+10/17/2019,10:00 PM,31,Thursday
+10/18/2019,5:00 AM,7,Friday
+10/18/2019,6:00 AM,102,Friday
+10/18/2019,7:00 AM,90,Friday
+10/18/2019,8:00 AM,97,Friday
+10/18/2019,9:00 AM,128,Friday
+10/18/2019,10:00 AM,160,Friday
+10/18/2019,11:00 AM,159,Friday
+10/18/2019,12:00 PM,200,Friday
+10/18/2019,1:00 PM,171,Friday
+10/18/2019,2:00 PM,241,Friday
+10/18/2019,3:00 PM,271,Friday
+10/18/2019,4:00 PM,266,Friday
+10/18/2019,5:00 PM,251,Friday
+10/18/2019,6:00 PM,189,Friday
+10/18/2019,7:00 PM,181,Friday
+10/18/2019,8:00 PM,69,Friday
+10/18/2019,9:00 PM,0,Friday
+10/18/2019,10:00 PM,0,Friday
+10/19/2019,5:00 AM,0,Saturday
+10/19/2019,6:00 AM,0,Saturday
+10/19/2019,7:00 AM,0,Saturday
+10/19/2019,8:00 AM,29,Saturday
+10/19/2019,9:00 AM,181,Saturday
+10/19/2019,10:00 AM,173,Saturday
+10/19/2019,11:00 AM,141,Saturday
+10/19/2019,12:00 PM,138,Saturday
+10/19/2019,1:00 PM,136,Saturday
+10/19/2019,2:00 PM,124,Saturday
+10/19/2019,3:00 PM,143,Saturday
+10/19/2019,4:00 PM,179,Saturday
+10/19/2019,5:00 PM,170,Saturday
+10/19/2019,6:00 PM,176,Saturday
+10/19/2019,7:00 PM,157,Saturday
+10/19/2019,8:00 PM,60,Saturday
+10/19/2019,9:00 PM,0,Saturday
+10/19/2019,10:00 PM,0,Saturday
+10/20/2019,5:00 AM,0,Sunday
+10/20/2019,6:00 AM,0,Sunday
+10/20/2019,7:00 AM,0,Sunday
+10/20/2019,8:00 AM,19,Sunday
+10/20/2019,9:00 AM,162,Sunday
+10/20/2019,10:00 AM,117,Sunday
+10/20/2019,11:00 AM,108,Sunday
+10/20/2019,12:00 PM,91,Sunday
+10/20/2019,1:00 PM,103,Sunday
+10/20/2019,2:00 PM,111,Sunday
+10/20/2019,3:00 PM,111,Sunday
+10/20/2019,4:00 PM,167,Sunday
+10/20/2019,5:00 PM,165,Sunday
+10/20/2019,6:00 PM,169,Sunday
+10/20/2019,7:00 PM,146,Sunday
+10/20/2019,8:00 PM,139,Sunday
+10/20/2019,9:00 PM,32,Sunday
+10/20/2019,10:00 PM,0,Sunday
+10/21/2019,5:00 AM,0,Monday
+10/21/2019,6:00 AM,144,Monday
+10/21/2019,7:00 AM,124,Monday
+10/21/2019,8:00 AM,158,Monday
+10/21/2019,9:00 AM,247,Monday
+10/21/2019,10:00 AM,191,Monday
+10/21/2019,11:00 AM,166,Monday
+10/21/2019,12:00 PM,225,Monday
+10/21/2019,1:00 PM,185,Monday
+10/21/2019,2:00 PM,213,Monday
+10/21/2019,3:00 PM,206,Monday
+10/21/2019,4:00 PM,232,Monday
+10/21/2019,5:00 PM,329,Monday
+10/21/2019,6:00 PM,321,Monday
+10/21/2019,7:00 PM,305,Monday
+10/21/2019,8:00 PM,283,Monday
+10/21/2019,9:00 PM,181,Monday
+10/21/2019,10:00 PM,41,Monday
+10/22/2019,5:00 AM,0,Tuesday
+10/22/2019,6:00 AM,139,Tuesday
+10/22/2019,7:00 AM,142,Tuesday
+10/22/2019,8:00 AM,149,Tuesday
+10/22/2019,9:00 AM,259,Tuesday
+10/22/2019,10:00 AM,281,Tuesday
+10/22/2019,11:00 AM,173,Tuesday
+10/22/2019,12:00 PM,261,Tuesday
+10/22/2019,1:00 PM,256,Tuesday
+10/22/2019,2:00 PM,185,Tuesday
+10/22/2019,3:00 PM,262,Tuesday
+10/22/2019,4:00 PM,253,Tuesday
+10/22/2019,5:00 PM,346,Tuesday
+10/22/2019,6:00 PM,257,Tuesday
+10/22/2019,7:00 PM,203,Tuesday
+10/22/2019,8:00 PM,272,Tuesday
+10/22/2019,9:00 PM,159,Tuesday
+10/22/2019,10:00 PM,30,Tuesday
+10/23/2019,5:00 AM,0,Wednesday
+10/23/2019,6:00 AM,145,Wednesday
+10/23/2019,7:00 AM,143,Wednesday
+10/23/2019,8:00 AM,170,Wednesday
+10/23/2019,9:00 AM,193,Wednesday
+10/23/2019,10:00 AM,209,Wednesday
+10/23/2019,11:00 AM,161,Wednesday
+10/23/2019,12:00 PM,197,Wednesday
+10/23/2019,1:00 PM,197,Wednesday
+10/23/2019,2:00 PM,162,Wednesday
+10/23/2019,3:00 PM,247,Wednesday
+10/23/2019,4:00 PM,249,Wednesday
+10/23/2019,5:00 PM,344,Wednesday
+10/23/2019,6:00 PM,277,Wednesday
+10/23/2019,7:00 PM,243,Wednesday
+10/23/2019,8:00 PM,265,Wednesday
+10/23/2019,9:00 PM,224,Wednesday
+10/23/2019,10:00 PM,33,Wednesday
+10/24/2019,5:00 AM,0,Thursday
+10/24/2019,6:00 AM,108,Thursday
+10/24/2019,7:00 AM,87,Thursday
+10/24/2019,8:00 AM,131,Thursday
+10/24/2019,9:00 AM,246,Thursday
+10/24/2019,10:00 AM,238,Thursday
+10/24/2019,11:00 AM,194,Thursday
+10/24/2019,12:00 PM,216,Thursday
+10/24/2019,1:00 PM,218,Thursday
+10/24/2019,2:00 PM,206,Thursday
+10/24/2019,3:00 PM,244,Thursday
+10/24/2019,4:00 PM,236,Thursday
+10/24/2019,5:00 PM,288,Thursday
+10/24/2019,6:00 PM,239,Thursday
+10/24/2019,7:00 PM,204,Thursday
+10/24/2019,8:00 PM,200,Thursday
+10/24/2019,9:00 PM,151,Thursday
+10/24/2019,10:00 PM,25,Thursday
+10/25/2019,5:00 AM,11,Friday
+10/25/2019,6:00 AM,78,Friday
+10/25/2019,7:00 AM,92,Friday
+10/25/2019,8:00 AM,111,Friday
+10/25/2019,9:00 AM,128,Friday
+10/25/2019,10:00 AM,145,Friday
+10/25/2019,11:00 AM,184,Friday
+10/25/2019,12:00 PM,197,Friday
+10/25/2019,1:00 PM,189,Friday
+10/25/2019,2:00 PM,242,Friday
+10/25/2019,3:00 PM,259,Friday
+10/25/2019,4:00 PM,230,Friday
+10/25/2019,5:00 PM,209,Friday
+10/25/2019,6:00 PM,165,Friday
+10/25/2019,7:00 PM,156,Friday
+10/25/2019,8:00 PM,71,Friday
+10/25/2019,9:00 PM,0,Friday
+10/25/2019,10:00 PM,0,Friday
+10/26/2019,5:00 AM,0,Saturday
+10/26/2019,6:00 AM,0,Saturday
+10/26/2019,7:00 AM,0,Saturday
+10/26/2019,8:00 AM,7,Saturday
+10/26/2019,9:00 AM,169,Saturday
+10/26/2019,10:00 AM,153,Saturday
+10/26/2019,11:00 AM,131,Saturday
+10/26/2019,12:00 PM,151,Saturday
+10/26/2019,1:00 PM,142,Saturday
+10/26/2019,2:00 PM,150,Saturday
+10/26/2019,3:00 PM,161,Saturday
+10/26/2019,4:00 PM,165,Saturday
+10/26/2019,5:00 PM,162,Saturday
+10/26/2019,6:00 PM,137,Saturday
+10/26/2019,7:00 PM,131,Saturday
+10/26/2019,8:00 PM,54,Saturday
+10/26/2019,9:00 PM,0,Saturday
+10/26/2019,10:00 PM,0,Saturday
+10/27/2019,5:00 AM,0,Sunday
+10/27/2019,6:00 AM,0,Sunday
+10/27/2019,7:00 AM,0,Sunday
+10/27/2019,8:00 AM,32,Sunday
+10/27/2019,9:00 AM,144,Sunday
+10/27/2019,10:00 AM,148,Sunday
+10/27/2019,11:00 AM,114,Sunday
+10/27/2019,12:00 PM,106,Sunday
+10/27/2019,1:00 PM,117,Sunday
+10/27/2019,2:00 PM,104,Sunday
+10/27/2019,3:00 PM,143,Sunday
+10/27/2019,4:00 PM,189,Sunday
+10/27/2019,5:00 PM,162,Sunday
+10/27/2019,6:00 PM,157,Sunday
+10/27/2019,7:00 PM,155,Sunday
+10/27/2019,8:00 PM,153,Sunday
+10/27/2019,9:00 PM,37,Sunday
+10/27/2019,10:00 PM,0,Sunday
+10/28/2019,5:00 AM,0,Monday
+10/28/2019,6:00 AM,141,Monday
+10/28/2019,7:00 AM,122,Monday
+10/28/2019,8:00 AM,151,Monday
+10/28/2019,9:00 AM,225,Monday
+10/28/2019,10:00 AM,245,Monday
+10/28/2019,11:00 AM,178,Monday
+10/28/2019,12:00 PM,256,Monday
+10/28/2019,1:00 PM,177,Monday
+10/28/2019,2:00 PM,189,Monday
+10/28/2019,3:00 PM,214,Monday
+10/28/2019,4:00 PM,262,Monday
+10/28/2019,5:00 PM,335,Monday
+10/28/2019,6:00 PM,315,Monday
+10/28/2019,7:00 PM,278,Monday
+10/28/2019,8:00 PM,246,Monday
+10/28/2019,9:00 PM,176,Monday
+10/28/2019,10:00 PM,38,Monday
+10/29/2019,5:00 AM,0,Tuesday
+10/29/2019,6:00 AM,116,Tuesday
+10/29/2019,7:00 AM,103,Tuesday
+10/29/2019,8:00 AM,131,Tuesday
+10/29/2019,9:00 AM,228,Tuesday
+10/29/2019,10:00 AM,273,Tuesday
+10/29/2019,11:00 AM,184,Tuesday
+10/29/2019,12:00 PM,215,Tuesday
+10/29/2019,1:00 PM,228,Tuesday
+10/29/2019,2:00 PM,175,Tuesday
+10/29/2019,3:00 PM,233,Tuesday
+10/29/2019,4:00 PM,273,Tuesday
+10/29/2019,5:00 PM,310,Tuesday
+10/29/2019,6:00 PM,274,Tuesday
+10/29/2019,7:00 PM,239,Tuesday
+10/29/2019,8:00 PM,208,Tuesday
+10/29/2019,9:00 PM,157,Tuesday
+10/29/2019,10:00 PM,36,Tuesday
+10/30/2019,5:00 AM,0,Wednesday
+10/30/2019,6:00 AM,143,Wednesday
+10/30/2019,7:00 AM,161,Wednesday
+10/30/2019,8:00 AM,145,Wednesday
+10/30/2019,9:00 AM,205,Wednesday
+10/30/2019,10:00 AM,209,Wednesday
+10/30/2019,11:00 AM,198,Wednesday
+10/30/2019,12:00 PM,189,Wednesday
+10/30/2019,1:00 PM,133,Wednesday
+10/30/2019,2:00 PM,162,Wednesday
+10/30/2019,3:00 PM,210,Wednesday
+10/30/2019,4:00 PM,239,Wednesday
+10/30/2019,5:00 PM,342,Wednesday
+10/30/2019,6:00 PM,252,Wednesday
+10/30/2019,7:00 PM,190,Wednesday
+10/30/2019,8:00 PM,188,Wednesday
+10/30/2019,9:00 PM,161,Wednesday
+10/30/2019,10:00 PM,29,Wednesday
+10/31/2019,5:00 AM,0,Thursday
+10/31/2019,6:00 AM,67,Thursday
+10/31/2019,7:00 AM,80,Thursday
+10/31/2019,8:00 AM,109,Thursday
+10/31/2019,9:00 AM,206,Thursday
+10/31/2019,10:00 AM,205,Thursday
+10/31/2019,11:00 AM,177,Thursday
+10/31/2019,12:00 PM,217,Thursday
+10/31/2019,1:00 PM,167,Thursday
+10/31/2019,2:00 PM,155,Thursday
+10/31/2019,3:00 PM,251,Thursday
+10/31/2019,4:00 PM,209,Thursday
+10/31/2019,5:00 PM,222,Thursday
+10/31/2019,6:00 PM,187,Thursday
+10/31/2019,7:00 PM,173,Thursday
+10/31/2019,8:00 PM,114,Thursday
+10/31/2019,9:00 PM,98,Thursday
+10/31/2019,10:00 PM,21,Thursday
+11/1/2019,5:00 AM,0,Friday
+11/1/2019,6:00 AM,73,Friday
+11/1/2019,7:00 AM,72,Friday
+11/1/2019,8:00 AM,75,Friday
+11/1/2019,9:00 AM,116,Friday
+11/1/2019,10:00 AM,117,Friday
+11/1/2019,11:00 AM,128,Friday
+11/1/2019,12:00 PM,166,Friday
+11/1/2019,1:00 PM,148,Friday
+11/1/2019,2:00 PM,187,Friday
+11/1/2019,3:00 PM,211,Friday
+11/1/2019,4:00 PM,242,Friday
+11/1/2019,5:00 PM,296,Friday
+11/1/2019,6:00 PM,209,Friday
+11/1/2019,7:00 PM,187,Friday
+11/1/2019,8:00 PM,58,Friday
+11/1/2019,9:00 PM,0,Friday
+11/1/2019,10:00 PM,0,Friday
+11/2/2019,5:00 AM,0,Saturday
+11/2/2019,6:00 AM,0,Saturday
+11/2/2019,7:00 AM,0,Saturday
+11/2/2019,8:00 AM,8,Saturday
+11/2/2019,9:00 AM,191,Saturday
+11/2/2019,10:00 AM,158,Saturday
+11/2/2019,11:00 AM,178,Saturday
+11/2/2019,12:00 PM,128,Saturday
+11/2/2019,1:00 PM,125,Saturday
+11/2/2019,2:00 PM,108,Saturday
+11/2/2019,3:00 PM,142,Saturday
+11/2/2019,4:00 PM,178,Saturday
+11/2/2019,5:00 PM,179,Saturday
+11/2/2019,6:00 PM,129,Saturday
+11/2/2019,7:00 PM,146,Saturday
+11/2/2019,8:00 PM,65,Saturday
+11/2/2019,9:00 PM,0,Saturday
+11/2/2019,10:00 PM,0,Saturday
+11/3/2019,5:00 AM,0,Sunday
+11/3/2019,6:00 AM,0,Sunday
+11/3/2019,7:00 AM,0,Sunday
+11/3/2019,8:00 AM,4,Sunday
+11/3/2019,9:00 AM,226,Sunday
+11/3/2019,10:00 AM,162,Sunday
+11/3/2019,11:00 AM,124,Sunday
+11/3/2019,12:00 PM,110,Sunday
+11/3/2019,1:00 PM,111,Sunday
+11/3/2019,2:00 PM,148,Sunday
+11/3/2019,3:00 PM,112,Sunday
+11/3/2019,4:00 PM,202,Sunday
+11/3/2019,5:00 PM,191,Sunday
+11/3/2019,6:00 PM,129,Sunday
+11/3/2019,7:00 PM,146,Sunday
+11/3/2019,8:00 PM,91,Sunday
+11/3/2019,9:00 PM,33,Sunday
+11/3/2019,10:00 PM,0,Sunday
+11/4/2019,5:00 AM,14,Monday
+11/4/2019,6:00 AM,151,Monday
+11/4/2019,7:00 AM,152,Monday
+11/4/2019,8:00 AM,172,Monday
+11/4/2019,9:00 AM,232,Monday
+11/4/2019,10:00 AM,228,Monday
+11/4/2019,11:00 AM,159,Monday
+11/4/2019,12:00 PM,240,Monday
+11/4/2019,1:00 PM,189,Monday
+11/4/2019,2:00 PM,184,Monday
+11/4/2019,3:00 PM,226,Monday
+11/4/2019,4:00 PM,250,Monday
+11/4/2019,5:00 PM,333,Monday
+11/4/2019,6:00 PM,244,Monday
+11/4/2019,7:00 PM,234,Monday
+11/4/2019,8:00 PM,267,Monday
+11/4/2019,9:00 PM,174,Monday
+11/4/2019,10:00 PM,30,Monday
+11/5/2019,5:00 AM,10,Tuesday
+11/5/2019,6:00 AM,128,Tuesday
+11/5/2019,7:00 AM,142,Tuesday
+11/5/2019,8:00 AM,156,Tuesday
+11/5/2019,9:00 AM,195,Tuesday
+11/5/2019,10:00 AM,266,Tuesday
+11/5/2019,11:00 AM,197,Tuesday
+11/5/2019,12:00 PM,227,Tuesday
+11/5/2019,1:00 PM,241,Tuesday
+11/5/2019,2:00 PM,207,Tuesday
+11/5/2019,3:00 PM,258,Tuesday
+11/5/2019,4:00 PM,260,Tuesday
+11/5/2019,5:00 PM,305,Tuesday
+11/5/2019,6:00 PM,254,Tuesday
+11/5/2019,7:00 PM,250,Tuesday
+11/5/2019,8:00 PM,238,Tuesday
+11/5/2019,9:00 PM,159,Tuesday
+11/5/2019,10:00 PM,33,Tuesday
+11/6/2019,5:00 AM,1,Wednesday
+11/6/2019,6:00 AM,133,Wednesday
+11/6/2019,7:00 AM,151,Wednesday
+11/6/2019,8:00 AM,161,Wednesday
+11/6/2019,9:00 AM,230,Wednesday
+11/6/2019,10:00 AM,231,Wednesday
+11/6/2019,11:00 AM,177,Wednesday
+11/6/2019,12:00 PM,198,Wednesday
+11/6/2019,1:00 PM,181,Wednesday
+11/6/2019,2:00 PM,172,Wednesday
+11/6/2019,3:00 PM,233,Wednesday
+11/6/2019,4:00 PM,316,Wednesday
+11/6/2019,5:00 PM,290,Wednesday
+11/6/2019,6:00 PM,235,Wednesday
+11/6/2019,7:00 PM,204,Wednesday
+11/6/2019,8:00 PM,202,Wednesday
+11/6/2019,9:00 PM,165,Wednesday
+11/6/2019,10:00 PM,29,Wednesday
+11/7/2019,5:00 AM,0,Thursday
+11/7/2019,6:00 AM,103,Thursday
+11/7/2019,7:00 AM,111,Thursday
+11/7/2019,8:00 AM,124,Thursday
+11/7/2019,9:00 AM,253,Thursday
+11/7/2019,10:00 AM,232,Thursday
+11/7/2019,11:00 AM,178,Thursday
+11/7/2019,12:00 PM,233,Thursday
+11/7/2019,1:00 PM,179,Thursday
+11/7/2019,2:00 PM,175,Thursday
+11/7/2019,3:00 PM,231,Thursday
+11/7/2019,4:00 PM,273,Thursday
+11/7/2019,5:00 PM,292,Thursday
+11/7/2019,6:00 PM,253,Thursday
+11/7/2019,7:00 PM,168,Thursday
+11/7/2019,8:00 PM,164,Thursday
+11/7/2019,9:00 PM,118,Thursday
+11/7/2019,10:00 PM,38,Thursday
+11/8/2019,5:00 AM,2,Friday
+11/8/2019,6:00 AM,124,Friday
+11/8/2019,7:00 AM,84,Friday
+11/8/2019,8:00 AM,110,Friday
+11/8/2019,9:00 AM,130,Friday
+11/8/2019,10:00 AM,156,Friday
+11/8/2019,11:00 AM,167,Friday
+11/8/2019,12:00 PM,169,Friday
+11/8/2019,1:00 PM,130,Friday
+11/8/2019,2:00 PM,243,Friday
+11/8/2019,3:00 PM,263,Friday
+11/8/2019,4:00 PM,266,Friday
+11/8/2019,5:00 PM,266,Friday
+11/8/2019,6:00 PM,147,Friday
+11/8/2019,7:00 PM,136,Friday
+11/8/2019,8:00 PM,45,Friday
+11/8/2019,9:00 PM,0,Friday
+11/8/2019,10:00 PM,0,Friday
+11/9/2019,5:00 AM,0,Saturday
+11/9/2019,6:00 AM,0,Saturday
+11/9/2019,7:00 AM,0,Saturday
+11/9/2019,8:00 AM,1,Saturday
+11/9/2019,9:00 AM,185,Saturday
+11/9/2019,10:00 AM,118,Saturday
+11/9/2019,11:00 AM,132,Saturday
+11/9/2019,12:00 PM,109,Saturday
+11/9/2019,1:00 PM,94,Saturday
+11/9/2019,2:00 PM,118,Saturday
+11/9/2019,3:00 PM,122,Saturday
+11/9/2019,4:00 PM,198,Saturday
+11/9/2019,5:00 PM,146,Saturday
+11/9/2019,6:00 PM,136,Saturday
+11/9/2019,7:00 PM,150,Saturday
+11/9/2019,8:00 PM,43,Saturday
+11/9/2019,9:00 PM,0,Saturday
+11/9/2019,10:00 PM,0,Saturday
+11/10/2019,5:00 AM,0,Sunday
+11/10/2019,6:00 AM,0,Sunday
+11/10/2019,7:00 AM,0,Sunday
+11/10/2019,8:00 AM,0,Sunday
+11/10/2019,9:00 AM,161,Sunday
+11/10/2019,10:00 AM,125,Sunday
+11/10/2019,11:00 AM,114,Sunday
+11/10/2019,12:00 PM,124,Sunday
+11/10/2019,1:00 PM,120,Sunday
+11/10/2019,2:00 PM,139,Sunday
+11/10/2019,3:00 PM,150,Sunday
+11/10/2019,4:00 PM,184,Sunday
+11/10/2019,5:00 PM,171,Sunday
+11/10/2019,6:00 PM,150,Sunday
+11/10/2019,7:00 PM,114,Sunday
+11/10/2019,8:00 PM,206,Sunday
+11/10/2019,9:00 PM,20,Sunday
+11/10/2019,10:00 PM,0,Sunday
+11/11/2019,5:00 AM,0,Monday
+11/11/2019,6:00 AM,0,Monday
+11/11/2019,7:00 AM,0,Monday
+11/11/2019,8:00 AM,0,Monday
+11/11/2019,9:00 AM,0,Monday
+11/11/2019,10:00 AM,0,Monday
+11/11/2019,11:00 AM,0,Monday
+11/11/2019,12:00 PM,0,Monday
+11/11/2019,1:00 PM,0,Monday
+11/11/2019,2:00 PM,0,Monday
+11/11/2019,3:00 PM,0,Monday
+11/11/2019,4:00 PM,0,Monday
+11/11/2019,5:00 PM,0,Monday
+11/11/2019,6:00 PM,0,Monday
+11/11/2019,7:00 PM,0,Monday
+11/11/2019,8:00 PM,0,Monday
+11/11/2019,9:00 PM,0,Monday
+11/11/2019,10:00 PM,0,Monday
+11/12/2019,5:00 AM,0,Tuesday
+11/12/2019,6:00 AM,142,Tuesday
+11/12/2019,7:00 AM,141,Tuesday
+11/12/2019,8:00 AM,140,Tuesday
+11/12/2019,9:00 AM,188,Tuesday
+11/12/2019,10:00 AM,238,Tuesday
+11/12/2019,11:00 AM,191,Tuesday
+11/12/2019,12:00 PM,257,Tuesday
+11/12/2019,1:00 PM,262,Tuesday
+11/12/2019,2:00 PM,213,Tuesday
+11/12/2019,3:00 PM,328,Tuesday
+11/12/2019,4:00 PM,273,Tuesday
+11/12/2019,5:00 PM,351,Tuesday
+11/12/2019,6:00 PM,274,Tuesday
+11/12/2019,7:00 PM,257,Tuesday
+11/12/2019,8:00 PM,261,Tuesday
+11/12/2019,9:00 PM,170,Tuesday
+11/12/2019,10:00 PM,45,Tuesday
+11/13/2019,5:00 AM,0,Wednesday
+11/13/2019,6:00 AM,135,Wednesday
+11/13/2019,7:00 AM,134,Wednesday
+11/13/2019,8:00 AM,141,Wednesday
+11/13/2019,9:00 AM,187,Wednesday
+11/13/2019,10:00 AM,227,Wednesday
+11/13/2019,11:00 AM,176,Wednesday
+11/13/2019,12:00 PM,172,Wednesday
+11/13/2019,1:00 PM,160,Wednesday
+11/13/2019,2:00 PM,187,Wednesday
+11/13/2019,3:00 PM,249,Wednesday
+11/13/2019,4:00 PM,263,Wednesday
+11/13/2019,5:00 PM,340,Wednesday
+11/13/2019,6:00 PM,290,Wednesday
+11/13/2019,7:00 PM,233,Wednesday
+11/13/2019,8:00 PM,243,Wednesday
+11/13/2019,9:00 PM,177,Wednesday
+11/13/2019,10:00 PM,30,Wednesday
+11/14/2019,5:00 AM,0,Thursday
+11/14/2019,6:00 AM,106,Thursday
+11/14/2019,7:00 AM,104,Thursday
+11/14/2019,8:00 AM,144,Thursday
+11/14/2019,9:00 AM,214,Thursday
+11/14/2019,10:00 AM,217,Thursday
+11/14/2019,11:00 AM,184,Thursday
+11/14/2019,12:00 PM,237,Thursday
+11/14/2019,1:00 PM,270,Thursday
+11/14/2019,2:00 PM,210,Thursday
+11/14/2019,3:00 PM,255,Thursday
+11/14/2019,4:00 PM,292,Thursday
+11/14/2019,5:00 PM,336,Thursday
+11/14/2019,6:00 PM,268,Thursday
+11/14/2019,7:00 PM,232,Thursday
+11/14/2019,8:00 PM,217,Thursday
+11/14/2019,9:00 PM,136,Thursday
+11/14/2019,10:00 PM,32,Thursday
+11/15/2019,5:00 AM,0,Friday
+11/15/2019,6:00 AM,109,Friday
+11/15/2019,7:00 AM,82,Friday
+11/15/2019,8:00 AM,112,Friday
+11/15/2019,9:00 AM,143,Friday
+11/15/2019,10:00 AM,157,Friday
+11/15/2019,11:00 AM,168,Friday
+11/15/2019,12:00 PM,205,Friday
+11/15/2019,1:00 PM,175,Friday
+11/15/2019,2:00 PM,248,Friday
+11/15/2019,3:00 PM,267,Friday
+11/15/2019,4:00 PM,322,Friday
+11/15/2019,5:00 PM,324,Friday
+11/15/2019,6:00 PM,200,Friday
+11/15/2019,7:00 PM,206,Friday
+11/15/2019,8:00 PM,49,Friday
+11/15/2019,9:00 PM,0,Friday
+11/15/2019,10:00 PM,0,Friday
+11/16/2019,5:00 AM,0,Saturday
+11/16/2019,6:00 AM,0,Saturday
+11/16/2019,7:00 AM,0,Saturday
+11/16/2019,8:00 AM,28,Saturday
+11/16/2019,9:00 AM,168,Saturday
+11/16/2019,10:00 AM,171,Saturday
+11/16/2019,11:00 AM,144,Saturday
+11/16/2019,12:00 PM,131,Saturday
+11/16/2019,1:00 PM,138,Saturday
+11/16/2019,2:00 PM,164,Saturday
+11/16/2019,3:00 PM,194,Saturday
+11/16/2019,4:00 PM,209,Saturday
+11/16/2019,5:00 PM,221,Saturday
+11/16/2019,6:00 PM,187,Saturday
+11/16/2019,7:00 PM,174,Saturday
+11/16/2019,8:00 PM,51,Saturday
+11/16/2019,9:00 PM,0,Saturday
+11/16/2019,10:00 PM,0,Saturday
+11/17/2019,5:00 AM,0,Sunday
+11/17/2019,6:00 AM,0,Sunday
+11/17/2019,7:00 AM,0,Sunday
+11/17/2019,8:00 AM,0,Sunday
+11/17/2019,9:00 AM,175,Sunday
+11/17/2019,10:00 AM,111,Sunday
+11/17/2019,11:00 AM,131,Sunday
+11/17/2019,12:00 PM,113,Sunday
+11/17/2019,1:00 PM,127,Sunday
+11/17/2019,2:00 PM,153,Sunday
+11/17/2019,3:00 PM,157,Sunday
+11/17/2019,4:00 PM,198,Sunday
+11/17/2019,5:00 PM,173,Sunday
+11/17/2019,6:00 PM,163,Sunday
+11/17/2019,7:00 PM,156,Sunday
+11/17/2019,8:00 PM,151,Sunday
+11/17/2019,9:00 PM,48,Sunday
+11/17/2019,10:00 PM,0,Sunday
+11/18/2019,5:00 AM,3,Monday
+11/18/2019,6:00 AM,139,Monday
+11/18/2019,7:00 AM,128,Monday
+11/18/2019,8:00 AM,142,Monday
+11/18/2019,9:00 AM,215,Monday
+11/18/2019,10:00 AM,217,Monday
+11/18/2019,11:00 AM,158,Monday
+11/18/2019,12:00 PM,282,Monday
+11/18/2019,1:00 PM,169,Monday
+11/18/2019,2:00 PM,192,Monday
+11/18/2019,3:00 PM,257,Monday
+11/18/2019,4:00 PM,278,Monday
+11/18/2019,5:00 PM,305,Monday
+11/18/2019,6:00 PM,303,Monday
+11/18/2019,7:00 PM,277,Monday
+11/18/2019,8:00 PM,276,Monday
+11/18/2019,9:00 PM,198,Monday
+11/18/2019,10:00 PM,39,Monday
+11/19/2019,5:00 AM,3,Tuesday
+11/19/2019,6:00 AM,128,Tuesday
+11/19/2019,7:00 AM,120,Tuesday
+11/19/2019,8:00 AM,142,Tuesday
+11/19/2019,9:00 AM,215,Tuesday
+11/19/2019,10:00 AM,251,Tuesday
+11/19/2019,11:00 AM,197,Tuesday
+11/19/2019,12:00 PM,227,Tuesday
+11/19/2019,1:00 PM,247,Tuesday
+11/19/2019,2:00 PM,219,Tuesday
+11/19/2019,3:00 PM,276,Tuesday
+11/19/2019,4:00 PM,244,Tuesday
+11/19/2019,5:00 PM,345,Tuesday
+11/19/2019,6:00 PM,280,Tuesday
+11/19/2019,7:00 PM,225,Tuesday
+11/19/2019,8:00 PM,256,Tuesday
+11/19/2019,9:00 PM,174,Tuesday
+11/19/2019,10:00 PM,47,Tuesday
+11/20/2019,5:00 AM,0,Wednesday
+11/20/2019,6:00 AM,141,Wednesday
+11/20/2019,7:00 AM,135,Wednesday
+11/20/2019,8:00 AM,156,Wednesday
+11/20/2019,9:00 AM,213,Wednesday
+11/20/2019,10:00 AM,213,Wednesday
+11/20/2019,11:00 AM,155,Wednesday
+11/20/2019,12:00 PM,178,Wednesday
+11/20/2019,1:00 PM,180,Wednesday
+11/20/2019,2:00 PM,200,Wednesday
+11/20/2019,3:00 PM,199,Wednesday
+11/20/2019,4:00 PM,302,Wednesday
+11/20/2019,5:00 PM,295,Wednesday
+11/20/2019,6:00 PM,219,Wednesday
+11/20/2019,7:00 PM,220,Wednesday
+11/20/2019,8:00 PM,204,Wednesday
+11/20/2019,9:00 PM,159,Wednesday
+11/20/2019,10:00 PM,43,Wednesday
+11/21/2019,5:00 AM,0,Thursday
+11/21/2019,6:00 AM,101,Thursday
+11/21/2019,7:00 AM,100,Thursday
+11/21/2019,8:00 AM,123,Thursday
+11/21/2019,9:00 AM,210,Thursday
+11/21/2019,10:00 AM,225,Thursday
+11/21/2019,11:00 AM,166,Thursday
+11/21/2019,12:00 PM,211,Thursday
+11/21/2019,1:00 PM,228,Thursday
+11/21/2019,2:00 PM,217,Thursday
+11/21/2019,3:00 PM,267,Thursday
+11/21/2019,4:00 PM,265,Thursday
+11/21/2019,5:00 PM,328,Thursday
+11/21/2019,6:00 PM,239,Thursday
+11/21/2019,7:00 PM,173,Thursday
+11/21/2019,8:00 PM,182,Thursday
+11/21/2019,9:00 PM,130,Thursday
+11/21/2019,10:00 PM,22,Thursday
+11/22/2019,5:00 AM,3,Friday
+11/22/2019,6:00 AM,112,Friday
+11/22/2019,7:00 AM,83,Friday
+11/22/2019,8:00 AM,101,Friday
+11/22/2019,9:00 AM,135,Friday
+11/22/2019,10:00 AM,164,Friday
+11/22/2019,11:00 AM,183,Friday
+11/22/2019,12:00 PM,201,Friday
+11/22/2019,1:00 PM,193,Friday
+11/22/2019,2:00 PM,291,Friday
+11/22/2019,3:00 PM,262,Friday
+11/22/2019,4:00 PM,258,Friday
+11/22/2019,5:00 PM,265,Friday
+11/22/2019,6:00 PM,158,Friday
+11/22/2019,7:00 PM,153,Friday
+11/22/2019,8:00 PM,65,Friday
+11/22/2019,9:00 PM,0,Friday
+11/22/2019,10:00 PM,0,Friday
+11/23/2019,5:00 AM,0,Saturday
+11/23/2019,6:00 AM,0,Saturday
+11/23/2019,7:00 AM,0,Saturday
+11/23/2019,8:00 AM,1,Saturday
+11/23/2019,9:00 AM,209,Saturday
+11/23/2019,10:00 AM,157,Saturday
+11/23/2019,11:00 AM,144,Saturday
+11/23/2019,12:00 PM,153,Saturday
+11/23/2019,1:00 PM,137,Saturday
+11/23/2019,2:00 PM,146,Saturday
+11/23/2019,3:00 PM,159,Saturday
+11/23/2019,4:00 PM,197,Saturday
+11/23/2019,5:00 PM,162,Saturday
+11/23/2019,6:00 PM,144,Saturday
+11/23/2019,7:00 PM,127,Saturday
+11/23/2019,8:00 PM,61,Saturday
+11/23/2019,9:00 PM,0,Saturday
+11/23/2019,10:00 PM,0,Saturday
+11/24/2019,5:00 AM,0,Sunday
+11/24/2019,6:00 AM,0,Sunday
+11/24/2019,7:00 AM,0,Sunday
+11/24/2019,8:00 AM,1,Sunday
+11/24/2019,9:00 AM,160,Sunday
+11/24/2019,10:00 AM,131,Sunday
+11/24/2019,11:00 AM,123,Sunday
+11/24/2019,12:00 PM,105,Sunday
+11/24/2019,1:00 PM,111,Sunday
+11/24/2019,2:00 PM,140,Sunday
+11/24/2019,3:00 PM,149,Sunday
+11/24/2019,4:00 PM,190,Sunday
+11/24/2019,5:00 PM,180,Sunday
+11/24/2019,6:00 PM,134,Sunday
+11/24/2019,7:00 PM,121,Sunday
+11/24/2019,8:00 PM,119,Sunday
+11/24/2019,9:00 PM,30,Sunday
+11/24/2019,10:00 PM,0,Sunday
+11/25/2019,5:00 AM,4,Monday
+11/25/2019,6:00 AM,113,Monday
+11/25/2019,7:00 AM,100,Monday
+11/25/2019,8:00 AM,99,Monday
+11/25/2019,9:00 AM,200,Monday
+11/25/2019,10:00 AM,193,Monday
+11/25/2019,11:00 AM,168,Monday
+11/25/2019,12:00 PM,234,Monday
+11/25/2019,1:00 PM,169,Monday
+11/25/2019,2:00 PM,187,Monday
+11/25/2019,3:00 PM,220,Monday
+11/25/2019,4:00 PM,231,Monday
+11/25/2019,5:00 PM,263,Monday
+11/25/2019,6:00 PM,241,Monday
+11/25/2019,7:00 PM,205,Monday
+11/25/2019,8:00 PM,195,Monday
+11/25/2019,9:00 PM,113,Monday
+11/25/2019,10:00 PM,18,Monday
+11/26/2019,5:00 AM,0,Tuesday
+11/26/2019,6:00 AM,77,Tuesday
+11/26/2019,7:00 AM,73,Tuesday
+11/26/2019,8:00 AM,91,Tuesday
+11/26/2019,9:00 AM,154,Tuesday
+11/26/2019,10:00 AM,187,Tuesday
+11/26/2019,11:00 AM,157,Tuesday
+11/26/2019,12:00 PM,124,Tuesday
+11/26/2019,1:00 PM,143,Tuesday
+11/26/2019,2:00 PM,143,Tuesday
+11/26/2019,3:00 PM,147,Tuesday
+11/26/2019,4:00 PM,156,Tuesday
+11/26/2019,5:00 PM,165,Tuesday
+11/26/2019,6:00 PM,121,Tuesday
+11/26/2019,7:00 PM,99,Tuesday
+11/26/2019,8:00 PM,54,Tuesday
+11/26/2019,9:00 PM,35,Tuesday
+11/26/2019,10:00 PM,5,Tuesday
+11/27/2019,5:00 AM,0,Wednesday
+11/27/2019,6:00 AM,28,Wednesday
+11/27/2019,7:00 AM,39,Wednesday
+11/27/2019,8:00 AM,36,Wednesday
+11/27/2019,9:00 AM,46,Wednesday
+11/27/2019,10:00 AM,56,Wednesday
+11/27/2019,11:00 AM,74,Wednesday
+11/27/2019,12:00 PM,91,Wednesday
+11/27/2019,1:00 PM,74,Wednesday
+11/27/2019,2:00 PM,61,Wednesday
+11/27/2019,3:00 PM,0,Wednesday
+11/27/2019,4:00 PM,0,Wednesday
+11/27/2019,5:00 PM,0,Wednesday
+11/27/2019,6:00 PM,0,Wednesday
+11/27/2019,7:00 PM,0,Wednesday
+11/27/2019,8:00 PM,0,Wednesday
+11/27/2019,9:00 PM,0,Wednesday
+11/27/2019,10:00 PM,0,Wednesday
+11/28/2019,5:00 AM,0,Thursday
+11/28/2019,6:00 AM,0,Thursday
+11/28/2019,7:00 AM,0,Thursday
+11/28/2019,8:00 AM,0,Thursday
+11/28/2019,9:00 AM,0,Thursday
+11/28/2019,10:00 AM,0,Thursday
+11/28/2019,11:00 AM,0,Thursday
+11/28/2019,12:00 PM,0,Thursday
+11/28/2019,1:00 PM,0,Thursday
+11/28/2019,2:00 PM,0,Thursday
+11/28/2019,3:00 PM,0,Thursday
+11/28/2019,4:00 PM,0,Thursday
+11/28/2019,5:00 PM,0,Thursday
+11/28/2019,6:00 PM,0,Thursday
+11/28/2019,7:00 PM,0,Thursday
+11/28/2019,8:00 PM,0,Thursday
+11/28/2019,9:00 PM,0,Thursday
+11/28/2019,10:00 PM,0,Thursday
+11/29/2019,5:00 AM,0,Friday
+11/29/2019,6:00 AM,0,Friday
+11/29/2019,7:00 AM,0,Friday
+11/29/2019,8:00 AM,0,Friday
+11/29/2019,9:00 AM,0,Friday
+11/29/2019,10:00 AM,0,Friday
+11/29/2019,11:00 AM,0,Friday
+11/29/2019,12:00 PM,0,Friday
+11/29/2019,1:00 PM,0,Friday
+11/29/2019,2:00 PM,0,Friday
+11/29/2019,3:00 PM,0,Friday
+11/29/2019,4:00 PM,0,Friday
+11/29/2019,5:00 PM,0,Friday
+11/29/2019,6:00 PM,0,Friday
+11/29/2019,7:00 PM,0,Friday
+11/29/2019,8:00 PM,0,Friday
+11/29/2019,9:00 PM,0,Friday
+11/30/2019,10:00 PM,0,Friday
+11/30/2019,5:00 AM,0,Saturday
+11/30/2019,6:00 AM,0,Saturday
+11/30/2019,7:00 AM,0,Saturday
+11/30/2019,8:00 AM,0,Saturday
+11/30/2019,9:00 AM,0,Saturday
+11/30/2019,10:00 AM,0,Saturday
+11/30/2019,11:00 AM,0,Saturday
+11/30/2019,12:00 PM,0,Saturday
+11/30/2019,1:00 PM,0,Saturday
+11/30/2019,2:00 PM,0,Saturday
+11/30/2019,3:00 PM,0,Saturday
+11/30/2019,4:00 PM,0,Saturday
+11/30/2019,5:00 PM,0,Saturday
+11/30/2019,6:00 PM,0,Saturday
+11/30/2019,7:00 PM,0,Saturday
+11/30/2019,8:00 PM,0,Saturday
+11/30/2019,9:00 PM,0,Saturday
+11/30/2019,10:00 PM,0,Saturday
+12/1/2019,5:00 AM,0,Sunday
+12/1/2019,6:00 AM,0,Sunday
+12/1/2019,7:00 AM,0,Sunday
+12/1/2019,8:00 AM,0,Sunday
+12/1/2019,9:00 AM,0,Sunday
+12/1/2019,10:00 AM,0,Sunday
+12/1/2019,11:00 AM,0,Sunday
+12/1/2019,12:00 PM,0,Sunday
+12/1/2019,1:00 PM,0,Sunday
+12/1/2019,2:00 PM,0,Sunday
+12/1/2019,3:00 PM,0,Sunday
+12/1/2019,4:00 PM,0,Sunday
+12/1/2019,5:00 PM,0,Sunday
+12/1/2019,6:00 PM,0,Sunday
+12/1/2019,7:00 PM,0,Sunday
+12/1/2019,8:00 PM,0,Sunday
+12/1/2019,9:00 PM,0,Sunday
+12/1/2019,10:00 PM,0,Sunday
+12/2/2019,5:00 AM,0,Monday
+12/2/2019,6:00 AM,116,Monday
+12/2/2019,7:00 AM,115,Monday
+12/2/2019,8:00 AM,116,Monday
+12/2/2019,9:00 AM,216,Monday
+12/2/2019,10:00 AM,221,Monday
+12/2/2019,11:00 AM,165,Monday
+12/2/2019,12:00 PM,225,Monday
+12/2/2019,1:00 PM,162,Monday
+12/2/2019,2:00 PM,175,Monday
+12/2/2019,3:00 PM,222,Monday
+12/2/2019,4:00 PM,264,Monday
+12/2/2019,5:00 PM,323,Monday
+12/2/2019,6:00 PM,247,Monday
+12/2/2019,7:00 PM,194,Monday
+12/2/2019,8:00 PM,225,Monday
+12/2/2019,9:00 PM,165,Monday
+12/2/2019,10:00 PM,23,Monday
+12/3/2019,5:00 AM,11,Tuesday
+12/3/2019,6:00 AM,92,Tuesday
+12/3/2019,7:00 AM,115,Tuesday
+12/3/2019,8:00 AM,132,Tuesday
+12/3/2019,9:00 AM,200,Tuesday
+12/3/2019,10:00 AM,210,Tuesday
+12/3/2019,11:00 AM,153,Tuesday
+12/3/2019,12:00 PM,215,Tuesday
+12/3/2019,1:00 PM,201,Tuesday
+12/3/2019,2:00 PM,183,Tuesday
+12/3/2019,3:00 PM,209,Tuesday
+12/3/2019,4:00 PM,187,Tuesday
+12/3/2019,5:00 PM,324,Tuesday
+12/3/2019,6:00 PM,203,Tuesday
+12/3/2019,7:00 PM,180,Tuesday
+12/3/2019,8:00 PM,177,Tuesday
+12/3/2019,9:00 PM,109,Tuesday
+12/3/2019,10:00 PM,23,Tuesday
+12/4/2019,5:00 AM,1,Wednesday
+12/4/2019,6:00 AM,94,Wednesday
+12/4/2019,7:00 AM,87,Wednesday
+12/4/2019,8:00 AM,86,Wednesday
+12/4/2019,9:00 AM,115,Wednesday
+12/4/2019,10:00 AM,221,Wednesday
+12/4/2019,11:00 AM,134,Wednesday
+12/4/2019,12:00 PM,199,Wednesday
+12/4/2019,1:00 PM,139,Wednesday
+12/4/2019,2:00 PM,155,Wednesday
+12/4/2019,3:00 PM,166,Wednesday
+12/4/2019,4:00 PM,248,Wednesday
+12/4/2019,5:00 PM,268,Wednesday
+12/4/2019,6:00 PM,186,Wednesday
+12/4/2019,7:00 PM,191,Wednesday
+12/4/2019,8:00 PM,172,Wednesday
+12/4/2019,9:00 PM,164,Wednesday
+12/4/2019,10:00 PM,26,Wednesday
+12/5/2019,5:00 AM,0,Thursday
+12/5/2019,6:00 AM,76,Thursday
+12/5/2019,7:00 AM,78,Thursday
+12/5/2019,8:00 AM,111,Thursday
+12/5/2019,9:00 AM,178,Thursday
+12/5/2019,10:00 AM,210,Thursday
+12/5/2019,11:00 AM,155,Thursday
+12/5/2019,12:00 PM,194,Thursday
+12/5/2019,1:00 PM,221,Thursday
+12/5/2019,2:00 PM,175,Thursday
+12/5/2019,3:00 PM,219,Thursday
+12/5/2019,4:00 PM,181,Thursday
+12/5/2019,5:00 PM,211,Thursday
+12/5/2019,6:00 PM,189,Thursday
+12/5/2019,7:00 PM,178,Thursday
+12/5/2019,8:00 PM,138,Thursday
+12/5/2019,9:00 PM,97,Thursday
+12/5/2019,10:00 PM,17,Thursday
+12/6/2019,5:00 AM,0,Friday
+12/6/2019,6:00 AM,96,Friday
+12/6/2019,7:00 AM,84,Friday
+12/6/2019,8:00 AM,88,Friday
+12/6/2019,9:00 AM,130,Friday
+12/6/2019,10:00 AM,121,Friday
+12/6/2019,11:00 AM,146,Friday
+12/6/2019,12:00 PM,138,Friday
+12/6/2019,1:00 PM,154,Friday
+12/6/2019,2:00 PM,172,Friday
+12/6/2019,3:00 PM,147,Friday
+12/6/2019,4:00 PM,183,Friday
+12/6/2019,5:00 PM,215,Friday
+12/6/2019,6:00 PM,135,Friday
+12/6/2019,7:00 PM,122,Friday
+12/6/2019,8:00 PM,42,Friday
+12/6/2019,9:00 PM,0,Friday
+12/6/2019,10:00 PM,0,Friday
+12/7/2019,5:00 AM,0,Saturday
+12/7/2019,6:00 AM,0,Saturday
+12/7/2019,7:00 AM,0,Saturday
+12/7/2019,8:00 AM,14,Saturday
+12/7/2019,9:00 AM,141,Saturday
+12/7/2019,10:00 AM,107,Saturday
+12/7/2019,11:00 AM,125,Saturday
+12/7/2019,12:00 PM,120,Saturday
+12/7/2019,1:00 PM,124,Saturday
+12/7/2019,2:00 PM,118,Saturday
+12/7/2019,3:00 PM,147,Saturday
+12/7/2019,4:00 PM,119,Saturday
+12/7/2019,5:00 PM,144,Saturday
+12/7/2019,6:00 PM,94,Saturday
+12/7/2019,7:00 PM,168,Saturday
+12/7/2019,8:00 PM,43,Saturday
+12/7/2019,9:00 PM,0,Saturday
+12/7/2019,10:00 PM,0,Saturday
+12/8/2019,5:00 AM,0,Sunday
+12/8/2019,6:00 AM,0,Sunday
+12/8/2019,7:00 AM,0,Sunday
+12/8/2019,8:00 AM,16,Sunday
+12/8/2019,9:00 AM,116,Sunday
+12/8/2019,10:00 AM,128,Sunday
+12/8/2019,11:00 AM,108,Sunday
+12/8/2019,12:00 PM,113,Sunday
+12/8/2019,1:00 PM,91,Sunday
+12/8/2019,2:00 PM,105,Sunday
+12/8/2019,3:00 PM,107,Sunday
+12/8/2019,4:00 PM,95,Sunday
+12/8/2019,5:00 PM,113,Sunday
+12/8/2019,6:00 PM,111,Sunday
+12/8/2019,7:00 PM,93,Sunday
+12/8/2019,8:00 PM,73,Sunday
+12/8/2019,9:00 PM,27,Sunday
+12/8/2019,10:00 PM,0,Sunday
+12/9/2019,5:00 AM,3,Monday
+12/9/2019,6:00 AM,71,Monday
+12/9/2019,7:00 AM,69,Monday
+12/9/2019,8:00 AM,81,Monday
+12/9/2019,9:00 AM,63,Monday
+12/9/2019,10:00 AM,105,Monday
+12/9/2019,11:00 AM,143,Monday
+12/9/2019,12:00 PM,178,Monday
+12/9/2019,1:00 PM,111,Monday
+12/9/2019,2:00 PM,119,Monday
+12/9/2019,3:00 PM,128,Monday
+12/9/2019,4:00 PM,217,Monday
+12/9/2019,5:00 PM,247,Monday
+12/9/2019,6:00 PM,142,Monday
+12/9/2019,7:00 PM,147,Monday
+12/9/2019,8:00 PM,95,Monday
+12/9/2019,9:00 PM,82,Monday
+12/9/2019,10:00 PM,20,Monday
+12/10/2019,5:00 AM,6,Tuesday
+12/10/2019,6:00 AM,71,Tuesday
+12/10/2019,7:00 AM,59,Tuesday
+12/10/2019,8:00 AM,122,Tuesday
+12/10/2019,9:00 AM,112,Tuesday
+12/10/2019,10:00 AM,124,Tuesday
+12/10/2019,11:00 AM,113,Tuesday
+12/10/2019,12:00 PM,156,Tuesday
+12/10/2019,1:00 PM,109,Tuesday
+12/10/2019,2:00 PM,127,Tuesday
+12/10/2019,3:00 PM,133,Tuesday
+12/10/2019,4:00 PM,137,Tuesday
+12/10/2019,5:00 PM,204,Tuesday
+12/10/2019,6:00 PM,152,Tuesday
+12/10/2019,7:00 PM,135,Tuesday
+12/10/2019,8:00 PM,82,Tuesday
+12/10/2019,9:00 PM,74,Tuesday
+12/10/2019,10:00 PM,21,Tuesday
+12/11/2019,5:00 AM,0,Wednesday
+12/11/2019,6:00 AM,72,Wednesday
+12/11/2019,7:00 AM,61,Wednesday
+12/11/2019,8:00 AM,55,Wednesday
+12/11/2019,9:00 AM,82,Wednesday
+12/11/2019,10:00 AM,111,Wednesday
+12/11/2019,11:00 AM,111,Wednesday
+12/11/2019,12:00 PM,130,Wednesday
+12/11/2019,1:00 PM,98,Wednesday
+12/11/2019,2:00 PM,103,Wednesday
+12/11/2019,3:00 PM,121,Wednesday
+12/11/2019,4:00 PM,139,Wednesday
+12/11/2019,5:00 PM,189,Wednesday
+12/11/2019,6:00 PM,138,Wednesday
+12/11/2019,7:00 PM,112,Wednesday
+12/11/2019,8:00 PM,86,Wednesday
+12/11/2019,9:00 PM,80,Wednesday
+12/11/2019,10:00 PM,21,Wednesday
+12/12/2019,5:00 AM,7,Thursday
+12/12/2019,6:00 AM,64,Thursday
+12/12/2019,7:00 AM,53,Thursday
+12/12/2019,8:00 AM,58,Thursday
+12/12/2019,9:00 AM,61,Thursday
+12/12/2019,10:00 AM,75,Thursday
+12/12/2019,11:00 AM,101,Thursday
+12/12/2019,12:00 PM,126,Thursday
+12/12/2019,1:00 PM,107,Thursday
+12/12/2019,2:00 PM,111,Thursday
+12/12/2019,3:00 PM,144,Thursday
+12/12/2019,4:00 PM,156,Thursday
+12/12/2019,5:00 PM,156,Thursday
+12/12/2019,6:00 PM,112,Thursday
+12/12/2019,7:00 PM,112,Thursday
+12/12/2019,8:00 PM,74,Thursday
+12/12/2019,9:00 PM,50,Thursday
+12/12/2019,10:00 PM,12,Thursday
+12/13/2019,5:00 AM,0,Friday
+12/13/2019,6:00 AM,79,Friday
+12/13/2019,7:00 AM,46,Friday
+12/13/2019,8:00 AM,38,Friday
+12/13/2019,9:00 AM,55,Friday
+12/13/2019,10:00 AM,69,Friday
+12/13/2019,11:00 AM,72,Friday
+12/13/2019,12:00 PM,99,Friday
+12/13/2019,1:00 PM,84,Friday
+12/13/2019,2:00 PM,107,Friday
+12/13/2019,3:00 PM,119,Friday
+12/13/2019,4:00 PM,116,Friday
+12/13/2019,5:00 PM,105,Friday
+12/13/2019,6:00 PM,90,Friday
+12/13/2019,7:00 PM,82,Friday
+12/13/2019,8:00 PM,19,Friday
+12/13/2019,9:00 PM,0,Friday
+12/14/2019,10:00 PM,0,Friday
+12/14/2019,5:00 AM,0,Saturday
+12/14/2019,6:00 AM,0,Saturday
+12/14/2019,7:00 AM,0,Saturday
+12/14/2019,8:00 AM,0,Saturday
+12/14/2019,9:00 AM,0,Saturday
+12/14/2019,10:00 AM,10,Saturday
+12/14/2019,11:00 AM,98,Saturday
+12/14/2019,12:00 PM,61,Saturday
+12/14/2019,1:00 PM,47,Saturday
+12/14/2019,2:00 PM,77,Saturday
+12/14/2019,3:00 PM,73,Saturday
+12/14/2019,4:00 PM,61,Saturday
+12/14/2019,5:00 PM,87,Saturday
+12/14/2019,6:00 PM,25,Saturday
+12/14/2019,7:00 PM,0,Saturday
+12/14/2019,8:00 PM,0,Saturday
+12/14/2019,9:00 PM,0,Saturday
+12/14/2019,10:00 PM,0,Saturday
